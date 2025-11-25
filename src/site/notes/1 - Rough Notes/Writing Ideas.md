@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/1-rough-notes/writing-ideas/","noteIcon":"","updated":"2025-11-24T17:32:15.813-08:00"}
+{"dg-publish":true,"permalink":"/1-rough-notes/writing-ideas/","noteIcon":"","updated":"2025-11-24T17:36:14.891-08:00"}
 ---
 
 # site to-do
+- [ ] join the indie web (with straw.page or with this site?)
+- [ ] join a webring
+- [ ] create the dw shrine
 - [ ] mirror [source code](https://github.com/zeebot99/zeebots-garden) to [sourcehut](https://git.sr.ht/~zeebot/zeebots-garden) 
 
 ---
