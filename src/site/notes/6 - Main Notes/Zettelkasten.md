@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/zettelkasten/","noteIcon":"","updated":"2025-11-24T16:53:47.535-08:00"}
+{"dg-publish":true,"permalink":"/6-main-notes/zettelkasten/","noteIcon":"","updated":"2025-11-25T10:32:18.624-08:00"}
 ---
 
 # Zettelkasten
 ***Zettelkasten*** is a method of personal knowledge management used by Niklas Luhmann, a German sociologist. It recommends creating atomic notes so that you can connect them with other ideas and build new ideas.
-- [[3 - Tags/on taking notes\|on taking notes]] 
+- [[3 - Tags/notetaking\|notetaking]] 
 
 ---
 # References
