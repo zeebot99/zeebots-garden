@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/curation/"}
+{"dg-publish":true,"permalink":"/6-main-notes/curation/","noteIcon":"","updated":"2025-11-24T16:54:45.249-08:00"}
 ---
 
 # curation

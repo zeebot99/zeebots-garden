@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-source-material/blog-posts/my-blog-is-a-digital-garden-not-a-blog/"}
+{"dg-publish":true,"permalink":"/2-source-material/blog-posts/my-blog-is-a-digital-garden-not-a-blog/","noteIcon":"","updated":"2025-11-24T16:52:18.174-08:00"}
 ---
 
 

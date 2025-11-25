@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/pagination/"}
+{"dg-publish":true,"permalink":"/6-main-notes/pagination/","noteIcon":"","updated":"2025-11-24T16:54:18.566-08:00"}
 ---
 
 # pagination

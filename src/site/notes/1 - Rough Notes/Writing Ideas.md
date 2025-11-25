@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-rough-notes/writing-ideas/"}
+{"dg-publish":true,"permalink":"/1-rough-notes/writing-ideas/","noteIcon":"","updated":"2025-11-24T16:51:49.111-08:00"}
 ---
 
 # to-do

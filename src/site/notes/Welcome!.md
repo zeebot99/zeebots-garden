@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"noteIcon":"","updated":"2025-11-24T17:07:26.192-08:00"}
 ---
 
 I'm `zeebot`, and this is my [[3 - Tags/digital garden\|digital garden]]. I write whatever comes to mind. You can explore with the sidebar on the left, via the search bar or through the folders. These notes are for me, so they have my opinions and thoughts on the material. Maybe you'll still get something out of it.
@@ -20,4 +20,5 @@ Here's a quick rundown of the file structure I [copied from Odysseas](https://ww
 | Indexes         | Holds indexes created from tag notes.                                                            |
 | Templates       | Holds templates for pages, published for reference. Hotkey to insert = `Ctrl + Q`.               |
 | Main Notes      | Default location for all unprocessed fleeting notes and web clippings.                           |
+
 The template for my main notes is based off Odysseas' and modified to fit the look of [Hiran Venugopalan's Working Notes](https://hiran.in/).

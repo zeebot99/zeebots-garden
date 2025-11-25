@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-rough-notes/resources/"}
+{"dg-publish":true,"permalink":"/1-rough-notes/resources/","noteIcon":"","updated":"2025-11-24T16:51:39.775-08:00"}
 ---
 
 links i want to save ~~without crowding up my bookmarks even more~~ and share with anyone who visits. table of contents (toc) should be on the right-hand side.
