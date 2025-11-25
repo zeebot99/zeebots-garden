@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-rough-notes/resources/","noteIcon":"","updated":"2025-11-24T16:51:39.775-08:00"}
+{"dg-publish":true,"permalink":"/1-rough-notes/resources/","noteIcon":"","updated":"2025-11-24T23:27:29.124-08:00"}
 ---
 
 links i want to save ~~without crowding up my bookmarks even more~~ and share with anyone who visits. table of contents (toc) should be on the right-hand side.
@@ -15,8 +15,10 @@ my tag: [[3 - Tags/on taking notes\|on taking notes]]
 
 # digital garden
 my tag: [[3 - Tags/digital garden\|digital garden]] 
-## digital garden examples!
+## digital garden hall of fame!
 - https://hiran.in/ -- i got the structure of my posts from hiran's *working notes* :)
+## lists of gardens / websites
+- [obsidian garden gallery](https://vaults.obsidian-community.com/) 
 ## articles & blog posts
 - [maggie appleton's famous essay, "a brief history & ethos of the digital garden"](https://maggieappleton.com/garden-history). good read if you're interested
 
