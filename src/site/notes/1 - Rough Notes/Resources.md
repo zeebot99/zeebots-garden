@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-rough-notes/resources/","noteIcon":"","updated":"2025-11-25T00:08:18.945-08:00"}
+{"dg-publish":true,"permalink":"/1-rough-notes/resources/","noteIcon":"","updated":"2025-11-25T00:29:09.114-08:00"}
 ---
 
 links i want to save ~~without crowding up my bookmarks even more~~ and share with anyone who visits. table of contents (toc) should be on the right-hand side.
@@ -17,7 +17,8 @@ my tag: [[3 - Tags/on taking notes\|on taking notes]]
 my tag: [[3 - Tags/digital garden\|digital garden]] 
 ## digital garden hall of fame!
 - https://hiran.in/ -- i got the structure of my posts from hiran's *working notes* :)
-- https://tomcritchlow.com/wiki/ -- i love the recently updated list on the homepage!!
+- https://tomcritchlow.com/wiki/ -- i love the recently updated list on the homepage
+- https://anhvn.com/ -- this site is *gorgeous* <3
 ## lists of gardens / websites
 - [obsidian garden gallery](https://vaults.obsidian-community.com/) 
 ## articles & blog posts
@@ -28,6 +29,7 @@ my tag: [[3 - Tags/digital garden\|digital garden]]
 # wellness
 - [finch](https://finchcare.com/): a virtual pet you grow by doing things (not an affiliate link!)
 	- my referral code so you and i can get items: `855FPP6QND` 
+- [what to do if you missed your birth control pill](https://tools.plannedparenthood.org/missed_pill/missed_pill) (i miss it all the time)
 
 ---
 
