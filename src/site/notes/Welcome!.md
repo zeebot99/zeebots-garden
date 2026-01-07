@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-01-07T02:12:42.785-08:00"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-01-07T04:57:36.576-08:00"}
 ---
 
+# Welcome to my mind garden 🪴
 I'm [`zeebot`](https://zeebot.omg.lol), and this is my [[3 - Tags/digital garden\|digital garden]]. I write whatever comes to mind. You can explore with the sidebar on the left, via the search bar or through the folders. These notes are for me, so they have my opinions and thoughts on the material. Maybe you'll still get something out of it.
 
 >[!note]- note for me
