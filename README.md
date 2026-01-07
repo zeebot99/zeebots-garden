@@ -2,7 +2,6 @@
 This is my digital garden, created in Obsidian and published via the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden). 
 See the README in the plugin repo for information on how to set it up.
 
----
 ## Vercel Deployment
 You can see the Vercel deployment [here](https://vercel.com/zeebot99s-projects/zeebots-garden).
 
