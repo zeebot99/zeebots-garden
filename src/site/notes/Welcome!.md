@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"noteIcon":"","updated":"2025-11-24T17:08:43.698-08:00"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"noteIcon":"","updated":"2025-11-24T17:08:43.000-08:00"}
 ---
 
 I'm `zeebot`, and this is my [[3 - Tags/digital garden\|digital garden]]. I write whatever comes to mind. You can explore with the sidebar on the left, via the search bar or through the folders. These notes are for me, so they have my opinions and thoughts on the material. Maybe you'll still get something out of it.
