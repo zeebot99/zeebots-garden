@@ -2,18 +2,21 @@
 This is the template to be used together with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden).
 See the README in the plugin repo for information on how to set it up.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/oleeskild/digitalgarden)
 
 ---
-## Docs
+## Vercel Deployment
+You can see the Vercel deployment [here](https://vercel.com/zeebot99s-projects/zeebots-garden).
+
+---
+## Plugin Docs
 Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/)
 
 ---
-## CSS Variables
+# CSS Variables
 
 The digital garden is fully customizable through CSS variables. Override these in `src/site/styles/custom-style.scss` to customize your garden's appearance.
 
-### How to Customize
+## How to Customize
 
 Add your overrides to `custom-style.scss`:
 
@@ -25,15 +28,15 @@ body {
 }
 ```
 
-### Responsive Layout Notes
+## Responsive Layout Notes
 
 - Content will never overlap the filetree, regardless of `--dg-content-max-width` value
 - The right sidebar (TOC/graph/backlinks) automatically hides when there isn't enough viewport space
 - To make the sidebar appear at smaller viewports, reduce `--dg-sidebar-max-width`
 
-### Available Variables
+## Available Variables
 
-#### Color Variables
+### Color Variables
 You can override the base Obsidian theme color variables directly:
 
 | Variable | Description |
@@ -56,7 +59,7 @@ You can override the base Obsidian theme color variables directly:
 | `--interactive-accent` | Interactive accent |
 | `--interactive-accent-hover` | Interactive accent hover |
 
-#### Layout Variables
+### Layout Variables
 
 | Variable | Default | Description |
 |----------|---------|-------------|
@@ -66,7 +69,7 @@ You can override the base Obsidian theme color variables directly:
 | `--dg-content-font-size` | `18px` | Base font size for content |
 | `--dg-content-line-height` | `1.5` | Line height for content |
 
-#### Sidebar (Right) Variables
+### Sidebar (Right) Variables
 
 | Variable | Default | Description |
 |----------|---------|-------------|
@@ -77,7 +80,7 @@ You can override the base Obsidian theme color variables directly:
 | `--dg-sidebar-container-padding` | `20px` | Sidebar container padding |
 | `--dg-sidebar-container-height` | `87%` | Sidebar container height |
 
-#### Graph Variables
+### Graph Variables
 
 | Variable | Default | Description |
 |----------|---------|-------------|
@@ -88,7 +91,7 @@ You can override the base Obsidian theme color variables directly:
 | `--dg-graph-fullscreen-width` | `600px` | Fullscreen graph width |
 | `--dg-graph-fullscreen-height` | `600px` | Fullscreen graph height |
 
-#### Filetree (Left Sidebar) Variables
+### Filetree (Left Sidebar) Variables
 
 | Variable | Default | Description |
 |----------|---------|-------------|
@@ -98,7 +101,7 @@ You can override the base Obsidian theme color variables directly:
 | `--dg-filetree-gap` | `80px` | Gap from content |
 | `--dg-filetree-title-size` | `32px` | Filetree title font size |
 
-#### TOC (Table of Contents) Variables
+### TOC (Table of Contents) Variables
 
 | Variable | Default | Description |
 |----------|---------|-------------|
@@ -109,7 +112,7 @@ You can override the base Obsidian theme color variables directly:
 | `--dg-toc-item-padding` | `2px 0 2px 8px` | TOC item padding |
 | `--dg-toc-indent` | `1em` | TOC nested list indent |
 
-#### Backlinks Variables
+### Backlinks Variables
 
 | Variable | Default | Description |
 |----------|---------|-------------|
@@ -120,7 +123,7 @@ You can override the base Obsidian theme color variables directly:
 | `--dg-backlinks-card-padding` | `6px 0` | Backlink card padding |
 | `--dg-backlinks-icon-size` | `14px` | Backlink icon size |
 
-#### Search Variables
+### Search Variables
 
 | Variable | Default | Description |
 |----------|---------|-------------|
@@ -136,7 +139,7 @@ You can override the base Obsidian theme color variables directly:
 | `--dg-search-result-radius` | `10px` | Search result border radius |
 | `--dg-search-link-size` | `1.4rem` | Search link font size |
 
-#### Search Button Variables
+### Search Button Variables
 
 | Variable | Default | Description |
 |----------|---------|-------------|
@@ -147,7 +150,7 @@ You can override the base Obsidian theme color variables directly:
 | `--dg-search-btn-font-size` | `0.85rem` | Search button font size |
 | `--dg-search-btn-icon-size` | `14px` | Search button icon size |
 
-#### Navbar Variables
+### Navbar Variables
 
 | Variable | Default | Description |
 |----------|---------|-------------|
@@ -158,7 +161,7 @@ You can override the base Obsidian theme color variables directly:
 | `--dg-logo-height-mobile` | `32px` | Site logo height on mobile |
 | `--dg-logo-margin` | `10px 15px` | Site logo margin |
 
-#### Note Link / Filetree Item Variables
+### Note Link / Filetree Item Variables
 
 | Variable | Default | Description |
 |----------|---------|-------------|
@@ -172,7 +175,7 @@ You can override the base Obsidian theme color variables directly:
 | `--dg-inner-folder-margin` | `12px` | Inner folder left margin |
 | `--dg-filelist-margin` | `8px` | File list left margin |
 
-#### Graph Controls Variables
+### Graph Controls Variables
 
 | Variable | Default | Description |
 |----------|---------|-------------|
@@ -185,7 +188,7 @@ You can override the base Obsidian theme color variables directly:
 | `--dg-depth-slider-width` | `50px` | Depth slider width |
 | `--dg-depth-display-size` | `1.1rem` | Depth display size |
 
-#### Timestamps Variables
+### Timestamps Variables
 
 | Variable | Default | Description |
 |----------|---------|-------------|
@@ -193,7 +196,7 @@ You can override the base Obsidian theme color variables directly:
 | `--dg-timestamps-gap` | `10px` | Timestamps gap |
 | `--dg-timestamps-margin-top` | `20px` | Timestamps top margin |
 
-#### Misc Component Variables
+### Misc Component Variables
 
 | Variable | Default | Description |
 |----------|---------|-------------|
