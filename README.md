@@ -3,5 +3,9 @@ This is my digital garden, created in Obsidian and published via the [Digital Ga
 See the README in the plugin repo for information on how to set it up.
 
 ---
+## Vercel Deployment
+You can see the Vercel deployment [here](https://vercel.com/zeebot99s-projects/zeebots-garden).
+
+---
 ## Plugin Docs
 Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/).
