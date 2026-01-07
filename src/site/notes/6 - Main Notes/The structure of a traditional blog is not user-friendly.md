@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/the-structure-of-a-traditional-blog-is-not-user-friendly/","noteIcon":"","updated":"2025-11-24T16:54:12.000-08:00"}
+{"dg-publish":true,"permalink":"/6-main-notes/the-structure-of-a-traditional-blog-is-not-user-friendly/","noteIcon":"","updated":"2026-01-07T02:41:34.114-08:00"}
 ---
 
 # The structure of a traditional blog is not user-friendly
@@ -9,12 +9,12 @@ The structure of a traditional blog is [[6 - Main Notes/pagination\|paginated]] 
 3. the `/tags` page.
 
 If you're creating a blog and/or digital garden, doing your own [[6 - Main Notes/curation\|curation]] can help with [[6 - Main Notes/discovery\|discovery]].
-- [[3 - Tags/digital garden\|digital garden]] 
-- [[3 - Tags/website design and structure\|website design and structure]] 
 
 ---
 # References
 Created: 2025-11-21 08:22
+
+Tags: [[3 - Tags/digital garden\|digital garden]], [[3 - Tags/website design and structure\|website design and structure]] 
 
 Status: #published  
 
