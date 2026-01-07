@@ -1,9 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/zettelkasten/","noteIcon":"","updated":"2025-11-25T10:32:18.000-08:00"}
+{"dg-publish":true,"permalink":"/6-main-notes/zettelkasten/","noteIcon":"","updated":"2026-01-07T02:21:58.436-08:00"}
 ---
 
 # Zettelkasten
-***Zettelkasten*** is a method of personal knowledge management used by Niklas Luhmann, a German sociologist. It recommends creating atomic notes so that you can connect them with other ideas and build new ideas.
+organization method for a personal [knowledge management](https://app.capacities.io/9773b04e-f1b9-4769-b662-975f16fbcdeb/79e7a330-9fce-4ffe-9e16-cef0b58f4f27) system that centers thinking and writing.
+
+- claims to improve recall and retention.
+- designed to help you organize ideas _while_ researching / studying so you don't have to exit your workflow.
+- good for having a personal search & growing ideas.
+
+input resonant info -> organize, identify, categorize -> output something you created.
+
+created by Niklas Luhmann, a German sociologist.
+
+Zettelkasten recommends creating ***atomic notes*** so that you can connect them with other notes and build new ideas.
 - [[3 - Tags/notetaking\|notetaking]] 
 
 ---
