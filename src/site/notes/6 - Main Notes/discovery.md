@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/discovery/","noteIcon":"","updated":"2026-01-07T02:39:01.419-08:00"}
+{"dg-publish":true,"permalink":"/6-main-notes/discovery/","noteIcon":"","updated":"2026-01-07T05:07:56.369-08:00"}
 ---
 
 # discovery
@@ -12,6 +12,7 @@ Created: 2025-11-21 14:15
 Tags: [[3 - Tags/blog terms + library science\|blog terms + library science]] 
 
 Status: #published 
+
 ## Source Material
 
 [[2 - Source Material/Blog Posts/🌱 My blog is a digital garden, not a blog\|🌱 My blog is a digital garden, not a blog]] 

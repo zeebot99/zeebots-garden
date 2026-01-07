@@ -1,15 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2-source-material/blog-posts/my-blog-is-a-digital-garden-not-a-blog/","noteIcon":"","updated":"2025-11-24T16:52:18.000-08:00"}
+{"dg-publish":true,"permalink":"/2-source-material/blog-posts/my-blog-is-a-digital-garden-not-a-blog/","noteIcon":"","updated":"2026-01-07T07:46:40.593-08:00"}
 ---
 
-
->[!quote]+
->The phrase "digital garden" is a metaphor for thinking about writing and creating that focuses less on the resulting "showpiece" and more on the process, care, and craft it takes to get there.
+>[!quote]+ The phrase "digital garden" is a metaphor for thinking about writing and creating that focuses less on the resulting "showpiece" and more on the process, care, and craft it takes to get there.
 
 Love the concept of ==growing your ideas==. Everything I know is scattered around different note apps and physical notebooks. But a digital garden is one central place to come back to and reference, and if it's public, others can read, comment, and learn with you.
 
->[!quote]+
->A garden is usually a place where things grow. \[...] It's a comparison that you can take very far.
+>[!quote]+ A garden is usually a place where things grow. \[...] It's a comparison that you can take very far.
 
 I have never thought in digestible folders. It's all disparate thoughts from watching and reading and listening. A garden is constantly taking shape, slowly but steadily, and can jump trains of thought with you.
 
@@ -22,14 +19,13 @@ I have never thought in digestible folders. It's all disparate thoughts from wat
 
 I have a professional blog where I'm working on pagination. I don't see this as a pointed criticism. I still believe it's the right structure in certain places (like documentation), but I think it's wrong for digital gardens. Still, I've never explored a paginated site through its pages, why would I expect anyone else to?
 
->[!quote]+ 
->Chronologically sorted pages of posts aren't how people actually use the internet. \[...] Curation comes **before** a chronological list.
+>[!quote]+ Chronologically sorted pages of posts aren't how people actually use the internet. \[...] Curation comes **before** a chronological list.
 
 I always clink on links recommended by others or related to ideas I'm exploring.
-- [[3 - Tags/digital garden\|digital garden]] 
-- [[3 - Tags/website design and structure\|website design and structure]] 
 
 ---
 
-# Source
-https://joelhooks.com/digital-garden
+# References
+*Source:* https://joelhooks.com/digital-garden
+
+Tags: [[3 - Tags/digital garden\|digital garden]], [[3 - Tags/website design and structure\|website design and structure]] 

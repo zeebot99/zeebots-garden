@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/zettelkasten/","noteIcon":"","updated":"2026-01-07T04:56:17.964-08:00"}
+{"dg-publish":true,"permalink":"/6-main-notes/zettelkasten/","noteIcon":"","updated":"2026-01-07T07:47:25.663-08:00"}
 ---
 
 # Zettelkasten
@@ -23,4 +23,5 @@ Tags: [[3 - Tags/notetaking\|notetaking]]
 Status: #published 
 
 ## Source Material
+[[2 - Source Material/A Beginner’s Guide to the Zettelkasten Method - Zenkit\|A Beginner’s Guide to the Zettelkasten Method - Zenkit]] 
 [Hiran's working note on Zettelkasten](https://hiran.in/note/zettelkasten) 
