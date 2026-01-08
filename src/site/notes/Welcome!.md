@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-01-07T04:57:36.576-08:00"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-01-08T03:26:39.273-08:00"}
 ---
 
 # Welcome to my mind garden 🪴
@@ -24,3 +24,4 @@ Here's a quick rundown of the file structure I [copied from Odysseas](https://ww
 
 The template for my main notes is based off Odysseas' and modified to fit the look of [Hiran Venugopalan's Working Notes](https://hiran.in/).
 
+proven3c5380
