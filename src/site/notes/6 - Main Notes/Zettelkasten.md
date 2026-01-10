@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/zettelkasten/","noteIcon":"","updated":"2026-01-07T07:47:25.663-08:00"}
+{"dg-publish":true,"permalink":"/6-main-notes/zettelkasten/","noteIcon":"","updated":"2026-01-09T04:23:46.395-08:00"}
 ---
 
 # Zettelkasten
@@ -25,3 +25,7 @@ Status: #published
 ## Source Material
 [[2 - Source Material/A Beginner’s Guide to the Zettelkasten Method - Zenkit\|A Beginner’s Guide to the Zettelkasten Method - Zenkit]] 
 [Hiran's working note on Zettelkasten](https://hiran.in/note/zettelkasten) 
+
+## Other Links
+https://archive.org/details/getting-started-with-an-antinet-zettelkasten/page/n61/mode/2up 
+https://fortelabs.com/blog/how-to-take-smart-notes/
