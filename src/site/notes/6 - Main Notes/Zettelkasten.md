@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/zettelkasten/","noteIcon":"","updated":"2026-01-09T20:26:07.862-08:00"}
+{"dg-publish":true,"permalink":"/6-main-notes/zettelkasten/","noteIcon":"","updated":"2026-01-09T21:50:37.924-08:00"}
 ---
 
 # Zettelkasten
@@ -9,7 +9,7 @@ input resonant info -> organize, identify, categorize -> output something you cr
 
 created by Niklas Luhmann, a German sociologist.
 
-Zettelkasten recommends creating ***atomic notes*** so that you can connect them with other notes and build new ideas.
+Zettelkasten practitioners recommend creating ***[[atomic note\|atomic note]]s*** so that you can connect them with other notes and build new ideas.
 
 ---
 # References
