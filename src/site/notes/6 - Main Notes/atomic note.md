@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/atomic-note/","noteIcon":"","updated":"2026-01-09T20:46:42.178-08:00"}
+{"dg-publish":true,"permalink":"/6-main-notes/atomic-note/","noteIcon":"","updated":"2026-01-09T20:47:13.924-08:00"}
 ---
 
 # atomic note
-I'm ngl I still don't know what this means.
+i'm ngl i still don't know what this means.
 
 ---
 # References
