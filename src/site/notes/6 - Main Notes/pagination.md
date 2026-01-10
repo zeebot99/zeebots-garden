@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/pagination/","noteIcon":"","updated":"2026-01-07T02:40:59.597-08:00"}
+{"dg-publish":true,"permalink":"/6-main-notes/pagination/","noteIcon":"","updated":"2026-01-09T20:15:38.262-08:00"}
 ---
 
 # pagination
@@ -9,9 +9,11 @@ In web contexts, we use ***pagination*** to divide sets of content (example: lis
 # References
 Created: 2025-11-21 13:50 
 
+Related: [[6 - Main Notes/The structure of a traditional blog is not user-friendly\|The structure of a traditional blog is not user-friendly]] 
+
 Tags: [[3 - Tags/website design and structure\|website design and structure]] 
 
-Status: #published 
+Status: #draft 
 
 ## Source Material
 - https://www.parallelhq.com/blog/what-pagination

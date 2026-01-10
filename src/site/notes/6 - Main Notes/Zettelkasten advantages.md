@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/zettelkasten-advantages/","noteIcon":"","updated":"2026-01-07T04:56:36.045-08:00"}
+{"dg-publish":true,"permalink":"/6-main-notes/zettelkasten-advantages/","noteIcon":"","updated":"2026-01-09T20:16:03.653-08:00"}
 ---
 
 # Zettelkasten advantages
@@ -15,6 +15,6 @@ Related: [[6 - Main Notes/Zettelkasten\|Zettelkasten]]
 
 Tags: [[3 - Tags/notetaking\|notetaking]] 
 
-Status: #published 
+Status: #draft 
 
 ## Source Material

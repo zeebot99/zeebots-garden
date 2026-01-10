@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/zettelkasten/","noteIcon":"","updated":"2026-01-09T04:23:46.395-08:00"}
+{"dg-publish":true,"permalink":"/6-main-notes/zettelkasten/","noteIcon":"","updated":"2026-01-09T20:26:07.862-08:00"}
 ---
 
 # Zettelkasten
@@ -18,7 +18,7 @@ Created: 2025-11-24 13:58
 Related:
 - [[6 - Main Notes/Zettelkasten advantages\|Zettelkasten advantages]] 
 
-Tags: [[3 - Tags/notetaking\|notetaking]] 
+Tags: [[3 - Tags/notetaking\|notetaking]], [[3 - Tags/knowledge management systems\|knowledge management systems]] 
 
 Status: #published 
 
