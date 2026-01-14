@@ -1,9 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/welcome-to-my-mind-garden/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-01-13T20:09:45.160-08:00"}
+{"dg-publish":true,"permalink":"/welcome-to-my-mind-garden/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-01-14T00:44:41.994-08:00"}
 ---
 
 # Welcome to my mind garden 🪴
 I'm [`zeebot`](https://zeebot.omg.lol), and this is my [[3 - Tags/digital garden\|digital garden]]. I write whatever comes to mind. You can explore with the sidebar on the left, via the search bar or through the folders. These notes are for me, so they have my opinions and thoughts on the material. Maybe you'll still get something out of it.
+
+Current focus: [[4 - Indexes/Cybersecurity MOC\|Cybersecurity]] 
+Previous focus: [[4 - Indexes/Notetaking MOC\|Notetaking]] 
 
 >[!note]- note for me
 >To create a note, press `Ctrl + O`, type in your title, then press `Shift + Enter`.
