@@ -23,7 +23,7 @@ Tags: [[3 - Tags/notetaking\|notetaking]], [[3 - Tags/knowledge management syste
 Status: #published 
 
 ## Source Material
-[[2 - Source Material/A Beginner’s Guide to the Zettelkasten Method - Zenkit\|A Beginner’s Guide to the Zettelkasten Method - Zenkit]] 
+[[2 - Source Material/Articles/A Beginner’s Guide to the Zettelkasten Method - Zenkit\|A Beginner’s Guide to the Zettelkasten Method - Zenkit]] 
 [Hiran's working note on Zettelkasten](https://hiran.in/note/zettelkasten) 
 
 ## Other Links

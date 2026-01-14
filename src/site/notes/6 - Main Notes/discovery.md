@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/discovery/","noteIcon":"","updated":"2026-01-07T05:07:56.369-08:00"}
+{"dg-publish":true,"permalink":"/6-main-notes/discovery/","noteIcon":"","updated":"2026-01-13T20:11:46.196-08:00"}
 ---
 
 # discovery
-A **discovery layer** is a system or platform designed to help users find and explore blog or website pages effectively. How ***discoverable*** your pages are is how well this system works. Examples of this would be this site's search bar, located in the left sidebar, and public [[6 - Main Notes/ToC\|ToC]]s or [[6 - Main Notes/MoC\|MoC]]s.
+A **discovery layer** is a system or platform designed to help users find and explore blog or website pages effectively. How ***discoverable*** your pages are is how well this system works. Examples of this would be this site's search bar, located in the left sidebar (or at the top right if you're on mobile), and public [[6 - Main Notes/ToC\|ToC]]s or [[6 - Main Notes/MoC\|MoC]]s.
 
 ---
 # References

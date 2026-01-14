@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome-to-my-mind-garden/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-01-09T21:54:25.832-08:00"}
+{"dg-publish":true,"permalink":"/welcome-to-my-mind-garden/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-01-13T20:09:45.160-08:00"}
 ---
 
 # Welcome to my mind garden 🪴
@@ -17,9 +17,9 @@ Here's a quick rundown of the file structure I [copied from Odysseas](https://ww
 | --------------- | ------------------------------------------------------------------------------------------------ |
 | Rough Notes     | Things I don't want to forget or want to share.                                                  |
 | Source Material | Insights from anything I consume *in context*, sorted by medium. Unsorted notes are in progress. |
-| Tags            | Holds tags (empty notes).                                                                        |
-| Indexes         | Holds indexes created from tag notes.                                                            |
-| Templates       | Holds templates for pages, published for reference. Hotkey to insert = `Ctrl + Q`.               |
+| Tags            | Tags (empty notes with backlinks to actual notes).                                               |
+| Indexes         | Indexes created from tag notes.                                                                  |
+| Templates       | Templates for pages, published for reference. Hotkey to insert = `Ctrl + Q`.                     |
 | Main Notes      | Default location for all unprocessed fleeting notes and web clippings.                           |
 
 The template for my main notes is based off Odysseas' and modified to fit a look inspired by [Hiran Venugopalan's Working Notes](https://hiran.in/).
