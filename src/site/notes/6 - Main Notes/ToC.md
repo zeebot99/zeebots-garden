@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/to-c/","noteIcon":"","updated":"2026-01-09T20:17:25.039-08:00"}
+{"dg-publish":true,"permalink":"/6-main-notes/to-c/","noteIcon":"","updated":"2026-01-09T20:17:25.039-08:00","dg-note-properties":{}}
 ---
 
 # ToC

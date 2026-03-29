@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome-to-my-mind-garden/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-01-14T00:44:41.994-08:00"}
+{"dg-publish":true,"permalink":"/welcome-to-my-mind-garden/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-01-14T00:44:41.994-08:00","dg-note-properties":{}}
 ---
 
 # Welcome to my mind garden 🪴

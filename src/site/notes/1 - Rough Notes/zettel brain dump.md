@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-rough-notes/zettel-brain-dump/","noteIcon":"","updated":"2026-01-14T00:47:44.634-08:00"}
+{"dg-publish":true,"permalink":"/1-rough-notes/zettel-brain-dump/","noteIcon":"","updated":"2026-01-14T00:47:44.634-08:00","dg-note-properties":{}}
 ---
 
 # to create

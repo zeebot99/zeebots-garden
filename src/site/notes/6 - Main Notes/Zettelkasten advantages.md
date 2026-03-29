@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/zettelkasten-advantages/","noteIcon":"","updated":"2026-01-09T20:16:03.653-08:00"}
+{"dg-publish":true,"permalink":"/6-main-notes/zettelkasten-advantages/","noteIcon":"","updated":"2026-01-09T20:16:03.653-08:00","dg-note-properties":{}}
 ---
 
 # Zettelkasten advantages

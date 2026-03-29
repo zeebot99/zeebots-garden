@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-source-material/blog-posts/my-blog-is-a-digital-garden-not-a-blog/","noteIcon":"","updated":"2026-01-07T07:46:40.593-08:00"}
+{"dg-publish":true,"permalink":"/2-source-material/blog-posts/my-blog-is-a-digital-garden-not-a-blog/","noteIcon":"","updated":"2026-01-07T07:46:40.593-08:00","dg-note-properties":{}}
 ---
 
 >[!quote]+ The phrase "digital garden" is a metaphor for thinking about writing and creating that focuses less on the resulting "showpiece" and more on the process, care, and craft it takes to get there.

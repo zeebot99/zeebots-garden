@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-indexes/cybersecurity-moc/","noteIcon":"","updated":"2026-01-14T01:11:12.180-08:00"}
+{"dg-publish":true,"permalink":"/4-indexes/cybersecurity-moc/","noteIcon":"","updated":"2026-01-14T01:11:12.180-08:00","dg-note-properties":{}}
 ---
 
 up:: [[Welcome to my mind garden🪴\|Home]] 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/zettelkasten/","noteIcon":"","updated":"2026-01-09T21:50:37.924-08:00"}
+{"dg-publish":true,"permalink":"/6-main-notes/zettelkasten/","noteIcon":"","updated":"2026-01-09T21:50:37.924-08:00","dg-note-properties":{}}
 ---
 
 # Zettelkasten

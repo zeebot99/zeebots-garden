@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/mo-c/","noteIcon":"","updated":"2026-01-07T02:39:53.541-08:00"}
+{"dg-publish":true,"permalink":"/6-main-notes/mo-c/","noteIcon":"","updated":"2026-01-07T02:39:53.541-08:00","dg-note-properties":{}}
 ---
 
 # MoC

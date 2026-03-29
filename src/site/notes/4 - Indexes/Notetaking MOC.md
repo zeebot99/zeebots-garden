@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-indexes/notetaking-moc/","noteIcon":"","updated":"2026-01-13T20:25:34.090-08:00"}
+{"dg-publish":true,"permalink":"/4-indexes/notetaking-moc/","noteIcon":"","updated":"2026-01-13T20:25:34.090-08:00","dg-note-properties":{}}
 ---
 
 # Concepts
