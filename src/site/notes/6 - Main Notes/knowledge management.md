@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/knowledge-management/","noteIcon":"","updated":"2026-01-09T20:31:58.502-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/6-main-notes/knowledge-management/","noteIcon":"","updated":"2026-03-29T15:51:08.633-07:00","dg-note-properties":{}}
 ---
 
 # knowledge management
-KM is overseeing knowledge throughout its entire lifestyle, from idea to archive. You treat ideas, thoughts, facts, and information like tasks to use knowledge effectively.
+**KM** is overseeing knowledge throughout its entire lifestyle, from idea to archive. You treat ideas, thoughts, facts, and information like tasks to use knowledge effectively.
 
 ---
 # References

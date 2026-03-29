@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/zettelkasten/","noteIcon":"","updated":"2026-01-09T21:50:37.924-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/6-main-notes/zettelkasten/","noteIcon":"","updated":"2026-03-29T15:50:47.763-07:00","dg-note-properties":{}}
 ---
 
 # Zettelkasten
-organization method for a personal [knowledge management](https://app.capacities.io/9773b04e-f1b9-4769-b662-975f16fbcdeb/79e7a330-9fce-4ffe-9e16-cef0b58f4f27) system that centers thinking and writing.
+organization method for a personal [[6 - Main Notes/knowledge management\|knowledge management]] system that centers thinking and writing.
 
 input resonant info -> organize, identify, categorize -> output something you created.
 

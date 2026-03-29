@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-indexes/cybersecurity-moc/","noteIcon":"","updated":"2026-01-14T01:11:12.180-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/4-indexes/cybersecurity-moc/","noteIcon":"","updated":"2026-03-29T15:53:23.089-07:00","dg-note-properties":{}}
 ---
 
 up:: [[Welcome to my mind garden🪴\|Home]] 
@@ -10,7 +10,7 @@ src:
 # 01. Cybersecurity Fundamentals
 # 02. Networking & Network Security 
 # 03. Application Security
-# 04. IAM
+# 04. Identity Access Management (IAM)
 # 05. Cryptology
 # 06. Threat Intelligence
 # 07. Vulnerability Management
