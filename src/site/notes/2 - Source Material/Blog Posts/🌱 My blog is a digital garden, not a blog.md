@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-source-material/blog-posts/my-blog-is-a-digital-garden-not-a-blog/","noteIcon":"","updated":"2026-01-07T07:46:40.593-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/2-source-material/blog-posts/my-blog-is-a-digital-garden-not-a-blog/","noteIcon":"","updated":"2026-06-08T20:44:53.142-07:00","dg-note-properties":{}}
 ---
 
 >[!quote]+ The phrase "digital garden" is a metaphor for thinking about writing and creating that focuses less on the resulting "showpiece" and more on the process, care, and craft it takes to get there.
@@ -28,4 +28,4 @@ I always clink on links recommended by others or related to ideas I'm exploring.
 # References
 *Source:* https://joelhooks.com/digital-garden
 
-Tags: [[3 - Tags/digital garden\|digital garden]], [[3 - Tags/website design and structure\|website design and structure]] 
+Tags: [[3 - Tags/digital gardening\|digital gardening]], [[3 - Tags/website design and structure\|website design and structure]] 

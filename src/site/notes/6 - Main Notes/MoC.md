@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/mo-c/","noteIcon":"","updated":"2026-01-07T02:39:53.541-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/6-main-notes/mo-c/","noteIcon":"","updated":"2026-06-08T20:34:45.572-07:00","dg-note-properties":{}}
 ---
 
 # MoC
-A **map of content** (**_MoC_**) is a note that links to other notes, creating a map. This is mainly in relation to Obsidian, but can be for any notetaking software that has links. My `3 - Tags` folder contains my MoCs.
+A **map of content** (**_MoC_**) is a note that links to other notes, creating a map. This is mainly in relation to Obsidian, but can be for any notetaking software that has links. My `3 - Tags` and `4 - Indexes` folders contains my MoCs for this site.
 
 ---
 # References

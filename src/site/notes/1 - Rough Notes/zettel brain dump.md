@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-rough-notes/zettel-brain-dump/","noteIcon":"","updated":"2026-01-14T00:47:44.634-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/1-rough-notes/zettel-brain-dump/","noteIcon":"","updated":"2026-06-08T20:28:35.211-07:00","dg-note-properties":{}}
 ---
 
 # to create
@@ -20,8 +20,8 @@
 - [ ] curiosity-driven life
 - [ ] my note-processing workflow
 - [ ] my review process
-- [ ] [[4 - Indexes/Cybersecurity MOC\|Cybersecurity MOC]] 
-- [ ] [[Home MOC\|Home MOC]] 
+- [x] [[4 - Indexes/Cybersecurity MOC\|Cybersecurity MOC]] 
+- [x] [[6 - Main Notes/Home MOC\|Home MOC]] 
 ## from Zenkit
 - [ ] Zettel note types (fleet, perm, ref)
 - [ ] taking Zettelkasten notes (steps)

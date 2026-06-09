@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/4-indexes/cybersecurity-moc/","noteIcon":"","updated":"2026-03-29T15:53:23.089-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/4-indexes/cybersecurity-moc/","noteIcon":"","updated":"2026-06-08T20:30:16.849-07:00","dg-note-properties":{}}
 ---
 
-up:: [[Welcome to my mind garden🪴\|Home]] 
+up:: [[6 - Main Notes/Home MOC\|Home MOC]] 
+
+---
+
 src:
 - https://publish.obsidian.md/addielamarr/01+Cybersecurity+Mastery 
 - https://github.com/Twigonometry/Cybersecurity-Notes/blob/main/Cheat%20Sheets/Fundamental%20Skills.md

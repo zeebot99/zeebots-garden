@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/welcome-to-my-mind-garden/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-01-14T00:44:41.994-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/welcome-to-my-mind-garden/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-06-08T20:44:53.191-07:00","dg-note-properties":{}}
 ---
 
 # Welcome to my mind garden 🪴
-I'm [`zeebot`](https://zeebot.omg.lol), and this is my [[3 - Tags/digital garden\|digital garden]]. I write whatever comes to mind. You can explore with the sidebar on the left, via the search bar or through the folders. These notes are for me, so they have my opinions and thoughts on the material. Maybe you'll still get something out of it.
+I'm [`zeebot`](https://zeebot.omg.lol), and this is my [[3 - Tags/digital gardening\|digital gardening]]. I write whatever comes to mind. You can explore with the sidebar on the left, via the search bar, through the folders, or just go [[6 - Main Notes/Home MOC\|home]]. These notes are for me, so they have my opinions and thoughts on the material. Maybe you'll still get something out of it.
 
 Current focus: [[4 - Indexes/Cybersecurity MOC\|Cybersecurity]] 
 Previous focus: [[4 - Indexes/Notetaking MOC\|Notetaking]] 
