@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-source-material/videos/how-to-achieve-more-while-studying-less-obsidian-and-conceptual-notes/","noteIcon":"","updated":"2026-07-29T19:26:04.921-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/2-source-material/videos/how-to-achieve-more-while-studying-less-obsidian-and-conceptual-notes/","noteIcon":"","updated":"2026-07-29T19:32:36.027-07:00","dg-note-properties":{}}
 ---
 
 # summary
@@ -15,13 +15,21 @@ Trust yourself to only write down what you need to be creative, then create new 
 You can do this with your old notes too. This will make them grow over time with your new ones instead of limiting physics concepts to your physics notebook.
 
 ## how **not** to take notes
-text
+Don't write down:
+
+1. anything that falls under [[6 - Main Notes/USE\|USE]],
+2. what you can remember without reminders,
+3. appointments/to-dos, and
+4. small facts you don't have to memorize (like the height of the Empire State Building).
+
+
 
 ---
 
-# how i discovered it
+# context
+## how i discovered it
 Pretty sure this one just got recommended to me via YouTube's algorithm. I watch a lot of stuff on taking notes. You [[4 - Indexes/Notetaking MOC\|might have noticed]].
-# who should watch it?
+## who should watch it?
 Anyone looking to remember what they hear in a class or read in a book, without needing specific tools or spending anything.
 
 # how it changed me
