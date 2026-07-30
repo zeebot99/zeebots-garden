@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/why-you-should-organize-your-knowledge/","noteIcon":"","updated":"2026-01-09T21:48:41.591-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/6-main-notes/why-you-should-organize-your-knowledge/","noteIcon":"","updated":"2026-07-29T18:00:34.674-07:00","dg-note-properties":{}}
 ---
 
 # Why organize your knowledge?
@@ -17,11 +17,11 @@ I've seen all the benefits above, but it also:
 # References
 Created: 2026-01-09 20:33
 
-Related: [[6 - Main Notes/knowledge management\|knowledge management]], [[6 - Main Notes/Zettelkasten advantages\|Zettelkasten advantages]] 
+Related: [[6 - Main Notes/knowledge management\|knowledge management]], [[6 - Main Notes/Zettelkasten advantages\|Zettelkasten advantages]], [[3 - Tags/creativity\|creativity]] 
 
 Tags: [[3 - Tags/knowledge management systems\|knowledge management systems]] 
 
-Status: #edit 
+Status: #published  
 
 ## Source Material
 [[2 - Source Material/Articles/A Beginner’s Guide to the Zettelkasten Method - Zenkit\|A Beginner’s Guide to the Zettelkasten Method - Zenkit]] 
