@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-source-material/videos/how-to-achieve-more-while-studying-less-obsidian-and-conceptual-notes/","noteIcon":"","updated":"2026-07-29T18:15:11.434-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/2-source-material/videos/how-to-achieve-more-while-studying-less-obsidian-and-conceptual-notes/","noteIcon":"","updated":"2026-07-29T18:33:31.089-07:00","dg-note-properties":{}}
 ---
 
 # summary
@@ -15,7 +15,7 @@ Anyone looking to remember what they hear in a class or read in a book, without 
 # how it changed me
 ## insights
 - I take notes to write so I can learn so I can write some more.
-- [Creativity ≠ novelty.](https://app.capacities.io/9773b04e-f1b9-4769-b662-975f16fbcdeb/aab67a95-2999-41ea-9e14-439bdf980b62) 
+- [[6 - Main Notes/Creativity ≠ novelty\|Creativity ≠ novelty]].
 ## seeing differently
 All the content about notetaking can be filled with unexplained jargon ("PKM," "second brain," "digital garden," "commonplace book," etc), which can scare off people who just want to learn about notes. This video was able to talk about the same concepts without--for lack of a better term, "scaring the hoes."
 

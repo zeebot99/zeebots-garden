@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/creativity-is-just-making-something-new/","noteIcon":"","updated":"2026-07-29T18:03:28.937-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/6-main-notes/creativity-is-just-making-something-new/","noteIcon":"","updated":"2026-07-29T18:33:14.668-07:00","dg-note-properties":{}}
 ---
 
 # Creativity is just making something new
-Not something that's never been done before, just anything new. If it didn't exist before and you made it exist, you were creative. [Creativity ≠ novelty](https://app.capacities.io/9773b04e-f1b9-4769-b662-975f16fbcdeb/aab67a95-2999-41ea-9e14-439bdf980b62).
+Not something that's never been done before, just anything new. If it didn't exist before and you made it exist, you were creative. [[6 - Main Notes/Creativity ≠ novelty\|Creativity ≠ novelty]].
 
 ---
 # References
