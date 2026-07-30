@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-source-material/videos/how-to-achieve-more-while-studying-less-obsidian-and-conceptual-notes/","noteIcon":"","updated":"2026-07-29T19:32:36.027-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/2-source-material/videos/how-to-achieve-more-while-studying-less-obsidian-and-conceptual-notes/","noteIcon":"","updated":"2026-07-29T20:00:27.073-07:00","dg-note-properties":{}}
 ---
 
 # summary
@@ -22,7 +22,7 @@ Don't write down:
 3. appointments/to-dos, and
 4. small facts you don't have to memorize (like the height of the Empire State Building).
 
-
+Example: Write down not the examples given in class, but every part of the example that you _couldn't predict_. [[6 - Main Notes/Be comfortable with forgetting\|Be comfortable with forgetting]] the rest.
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/welcome-to-my-mind-garden/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-07-29T18:25:17.643-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/welcome-to-my-mind-garden/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-07-29T20:06:00.824-07:00","dg-note-properties":{}}
 ---
 
 # Welcome to my mind garden 🪴
 I'm [`zeebot`](https://zeebot.omg.lol), and this is where I do my public [[3 - Tags/digital gardening\|digital gardening]]. I write whatever comes to mind. You can explore with the sidebar on the left, via the search bar, through the folders, or just go [[6 - Main Notes/Home MOC\|home]]. These notes are for me, so they have my opinions and thoughts on the material. Maybe you'll still get something out of it.
 
-Current focus: [[3 - Tags/creativity\|creativity]] 
-Previous focus: [[4 - Indexes/Notetaking MOC\|Notetaking]] 
+Current focus: [[3 - Tags/memory\|memory]] & [[3 - Tags/creativity\|creativity]] 
+Previous focus: [[4 - Indexes/Notetaking MOC\|notetaking]] 
 
 >[!note]- note for me
 >To create a note, press `Ctrl + O`, type in your title, then press `Shift + Enter`.

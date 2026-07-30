@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-rough-notes/future-note-brain-dump/","noteIcon":"","updated":"2026-07-29T18:26:14.868-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/1-rough-notes/future-note-brain-dump/","noteIcon":"","updated":"2026-07-29T20:17:20.065-07:00","dg-note-properties":{}}
 ---
 
 # to create
@@ -23,6 +23,7 @@
 - [x] [[4 - Indexes/Cybersecurity MOC\|Cybersecurity MOC]] 
 - [x] [[6 - Main Notes/Home MOC\|Home MOC]] 
 - [ ] credits / thanks / how i made this garden
+- [ ] minimalism
 
 ---
 
