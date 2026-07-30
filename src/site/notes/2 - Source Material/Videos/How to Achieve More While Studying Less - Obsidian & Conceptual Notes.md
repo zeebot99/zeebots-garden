@@ -1,9 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/2-source-material/videos/how-to-achieve-more-while-studying-less-obsidian-and-conceptual-notes/","noteIcon":"","updated":"2026-07-29T18:33:31.089-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/2-source-material/videos/how-to-achieve-more-while-studying-less-obsidian-and-conceptual-notes/","noteIcon":"","updated":"2026-07-29T19:26:04.921-07:00","dg-note-properties":{}}
 ---
 
 # summary
+## why take notes?
+We tend to remember what we think about a lot and what we view from different viewpoints. We want to take notes to retain information so we can pursue our passions.
 
+## how to take notes
+Trust yourself to only write down what you need to be creative, then create new ideas from what you've learned.
+
+1. Write notes by concept to find information quickly.
+2. Link related concepts together to erase the limits on your thinking.
+
+You can do this with your old notes too. This will make them grow over time with your new ones instead of limiting physics concepts to your physics notebook.
+
+## how **not** to take notes
+text
 
 ---
 
