@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-source-material/articles/a-beginner-s-guide-to-the-zettelkasten-method-zenkit/","noteIcon":"","updated":"2026-07-29T18:15:26.411-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/2-source-material/articles/a-beginner-s-guide-to-the-zettelkasten-method-zenkit/","noteIcon":"","updated":"2026-07-29T18:19:37.382-07:00","dg-note-properties":{}}
 ---
 
 >[!quote]+ information overload
@@ -19,7 +19,7 @@
 
 zettel method is good for having a personal search & growing ideas (digital garden). are there other knowledge management systems? what are their strengths?
 
->[!quote]+ Knowledge management (KM) is the process of creating, sharing, using, and managing knowledge and information.
+>[!quote]+ [[6 - Main Notes/knowledge management\|Knowledge management]] (KM) is the process of creating, sharing, using, and managing knowledge and information.
 >km: treating ideas, thoughts, and info like tasks to use knowledge effectively
 
 >[!quote]+ web of knowledge
@@ -51,7 +51,7 @@ are there other, non-main types? what are they?
 >always overexplain. you're supposed to summarize later anyway
 
 >[!quote]+ The technique of grouping information, organizing ideas into categories, and creating tags to help you find grouped information at a later stage is the art of reference notes.
->ref note: MOCs, toc
+>ref note: MOCs, [[6 - Main Notes/ToC\|toc]]
 
 >[!quote]+ Permanent notes are stand-alone ideas that can be made without any direct context to other sourced information
 >perm note: ideas without context
