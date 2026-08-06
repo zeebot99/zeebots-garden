@@ -5,7 +5,7 @@
 # What we write down is what we remember
 
 >[!quote]- full quote
->What we write down is what we remember. It’s like a [[6 - Main Notes/time\|time]] capsule in a way, a lifeline back to the best parts of ourselves. A little popcorn trail of words we can follow so that we never lose sight of the path we’re on.
+>What we write down is what we remember. It’s like a [[3 - Tags/time\|time]] capsule in a way, a lifeline back to the best parts of ourselves. A little popcorn trail of words we can follow so that we never lose sight of the path we’re on.
 
 ---
 # References

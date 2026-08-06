@@ -11,7 +11,7 @@ Created: 2026-08-05 23:16
 
 Related: N/A
 
-Tags: [[3 - Tags/productivity\|productivity]], [[6 - Main Notes/time\|time]] 
+Tags: [[3 - Tags/productivity\|productivity]], [[3 - Tags/time\|time]] 
 
 Status: #edit 
 
