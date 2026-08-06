@@ -21,7 +21,7 @@
 - [ ] my note-processing workflow
 - [ ] my review process
 - [x] [[4 - Indexes/Cybersecurity MOC\|Cybersecurity MOC]] 
-- [x] [[6 - Main Notes/Home MOC\|Home MOC]] 
+- [x] [[4 - Indexes/Home MOC\|Home MOC]] 
 - [ ] credits / thanks / how i made this garden
 - [ ] minimalism
 

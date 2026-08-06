@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4-indexes/cybersecurity-moc/","noteIcon":"","updated":"2026-06-08T20:30:16.849-07:00","dg-note-properties":{}}
 ---
 
-up:: [[6 - Main Notes/Home MOC\|Home MOC]] 
+up:: [[4 - Indexes/Home MOC\|Home MOC]] 
 
 ---
 

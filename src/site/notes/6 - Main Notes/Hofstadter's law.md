@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/hofstadter-s-law/","noteIcon":"","updated":"2026-08-05T23:21:15.438-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/6-main-notes/hofstadter-s-law/","noteIcon":"","updated":"2026-08-05T23:56:27.495-07:00","dg-note-properties":{}}
 ---
 
 # Hofstadter's law
@@ -13,7 +13,7 @@ Related: N/A
 
 Tags: [[3 - Tags/productivity\|productivity]], [[3 - Tags/time\|time]] 
 
-Status: #edit 
+Status: #published 
 
 ## Source Material
 Gödel, Escher, Bach: An Eternal Golden Braid[^1]
