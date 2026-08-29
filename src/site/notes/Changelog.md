@@ -8,12 +8,12 @@ up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]
 # Notes updated today 📝
 | File                                                                  | Updated      |
 | --------------------------------------------------------------------- | ------------ |
+| [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]       | Aug 29, 2026 |
 | [[4 - Indexes/Sitemap\|Sitemap]]                                   | Aug 29, 2026 |
 | [[My digital garden's structure\|My digital garden's structure]]   | Aug 29, 2026 |
 | [[5 - Templates/Topic note\|Topic note]]                           | Aug 29, 2026 |
 | [[5 - Templates/Fiction source note\|Fiction source note]]         | Aug 29, 2026 |
 | [[1 - Rough Notes/resources\|resources]]                           | Aug 29, 2026 |
-| [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]       | Aug 29, 2026 |
 | [[Changelog\|Changelog]]                                           | Aug 29, 2026 |
 | [[4 - Indexes/Notetaking MOC\|Notetaking MOC]]                     | Aug 29, 2026 |
 | [[4 - Indexes/Cybersecurity MOC\|Cybersecurity MOC]]               | Aug 29, 2026 |
