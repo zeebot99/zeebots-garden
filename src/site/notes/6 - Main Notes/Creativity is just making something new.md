@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/creativity-is-just-making-something-new/","noteIcon":"","updated":"2026-07-29T20:39:17.883-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/6-main-notes/creativity-is-just-making-something-new/","noteIcon":"","created":"2026-07-29T17:56:24.538-07:00","updated":"2026-07-29T20:39:17.883-07:00","dg-note-properties":{}}
 ---
 
 # Creativity is just making something new

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/use/","noteIcon":"","updated":"2026-07-29T19:29:37.009-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/6-main-notes/use/","noteIcon":"","created":"2026-07-29T19:27:57.749-07:00","updated":"2026-07-29T19:29:37.009-07:00","dg-note-properties":{}}
 ---
 
 # USE

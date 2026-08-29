@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/why-you-should-organize-your-knowledge/","noteIcon":"","updated":"2026-07-29T18:00:34.674-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/6-main-notes/why-you-should-organize-your-knowledge/","noteIcon":"","created":"2026-01-09T20:32:44.771-08:00","updated":"2026-07-29T18:00:34.674-07:00","dg-note-properties":{}}
 ---
 
 # Why organize your knowledge?

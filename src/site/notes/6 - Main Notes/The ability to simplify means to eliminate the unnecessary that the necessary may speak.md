@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/the-ability-to-simplify-means-to-eliminate-the-unnecessary-that-the-necessary-may-speak/","noteIcon":"","updated":"2026-07-29T20:37:14.959-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/6-main-notes/the-ability-to-simplify-means-to-eliminate-the-unnecessary-that-the-necessary-may-speak/","noteIcon":"","created":"2026-07-29T20:33:19.896-07:00","updated":"2026-07-29T20:37:14.959-07:00","dg-note-properties":{}}
 ---
 
 # The ability to simplify means to eliminate the unnecessary that the necessary may speak

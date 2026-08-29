@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/hofstadter-s-law/","noteIcon":"","updated":"2026-08-05T23:56:27.495-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/6-main-notes/hofstadter-s-law/","noteIcon":"","created":"2026-08-05T23:16:08.060-07:00","updated":"2026-08-05T23:56:27.495-07:00","dg-note-properties":{}}
 ---
 
 # Hofstadter's law

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/zettelkasten/","noteIcon":"","updated":"2026-03-29T15:50:47.763-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/6-main-notes/zettelkasten/","noteIcon":"","created":"2026-01-06T22:07:39.580-08:00","updated":"2026-08-28T21:11:29.130-07:00","dg-note-properties":{}}
 ---
 
 # Zettelkasten
@@ -9,14 +9,13 @@ input resonant info -> organize, identify, categorize -> output something you cr
 
 created by Niklas Luhmann, a German sociologist.
 
-Zettelkasten practitioners recommend creating ***[[atomic note\|atomic note]]s*** so that you can connect them with other notes and build new ideas.
+Zettelkasten practitioners recommend creating ***[[atomic note\|atomic notes]]*** so that you can connect them with other notes and build new ideas.
 
 ---
 # References
 Created: 2025-11-24 13:58
 
-Related:
-- [[6 - Main Notes/Zettelkasten advantages\|Zettelkasten advantages]] 
+Related: [[6 - Main Notes/Zettelkasten advantages\|Zettelkasten advantages]] 
 
 Tags: [[3 - Tags/notetaking\|notetaking]], [[3 - Tags/knowledge management systems\|knowledge management systems]] 
 

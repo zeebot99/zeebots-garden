@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/atomic-note/","noteIcon":"","updated":"2026-01-09T21:52:10.032-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/6-main-notes/atomic-note/","noteIcon":"","created":"2026-01-09T20:26:19.683-08:00","updated":"2026-01-09T21:52:10.032-08:00","dg-note-properties":{}}
 ---
 
 # atomic note

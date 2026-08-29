@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/knowledge-management/","noteIcon":"","updated":"2026-03-29T15:51:08.633-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/6-main-notes/knowledge-management/","noteIcon":"","created":"2026-01-07T05:01:34.429-08:00","updated":"2026-03-29T15:51:08.633-07:00","dg-note-properties":{}}
 ---
 
 # knowledge management

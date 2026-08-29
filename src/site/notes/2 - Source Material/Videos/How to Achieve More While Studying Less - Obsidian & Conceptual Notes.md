@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-source-material/videos/how-to-achieve-more-while-studying-less-obsidian-and-conceptual-notes/","noteIcon":"","updated":"2026-07-29T20:00:27.073-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/2-source-material/videos/how-to-achieve-more-while-studying-less-obsidian-and-conceptual-notes/","noteIcon":"","created":"2026-07-29T17:33:09.993-07:00","updated":"2026-07-29T20:00:27.073-07:00","dg-note-properties":{}}
 ---
 
 # summary

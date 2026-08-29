@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/discovery/","noteIcon":"","updated":"2026-01-13T20:11:46.196-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/6-main-notes/discovery/","noteIcon":"","created":"2026-01-06T22:07:39.579-08:00","updated":"2026-01-13T20:11:46.196-08:00","dg-note-properties":{}}
 ---
 
 # discovery

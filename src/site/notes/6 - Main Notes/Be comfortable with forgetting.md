@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/be-comfortable-with-forgetting/","noteIcon":"","updated":"2026-07-29T20:37:34.328-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/6-main-notes/be-comfortable-with-forgetting/","noteIcon":"","created":"2026-07-29T19:58:06.766-07:00","updated":"2026-07-29T20:37:34.328-07:00","dg-note-properties":{}}
 ---
 
 # Be comfortable with forgetting

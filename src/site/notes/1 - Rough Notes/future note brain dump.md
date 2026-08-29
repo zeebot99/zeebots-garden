@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-rough-notes/future-note-brain-dump/","noteIcon":"","updated":"2026-07-29T20:17:20.065-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/1-rough-notes/future-note-brain-dump/","noteIcon":"","created":"2026-01-13T20:33:09.287-08:00","updated":"2026-07-29T20:17:20.065-07:00","dg-note-properties":{}}
 ---
 
 # to create

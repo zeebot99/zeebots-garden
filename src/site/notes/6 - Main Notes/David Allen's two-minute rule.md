@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/david-allen-s-two-minute-rule/","noteIcon":"","updated":"2026-08-05T23:47:24.751-07:00","dg-note-properties":{"aliases":["two-minute rule"]}}
+{"dg-publish":true,"permalink":"/6-main-notes/david-allen-s-two-minute-rule/","noteIcon":"","created":"2026-08-05T23:25:07.306-07:00","updated":"2026-08-05T23:47:24.751-07:00","dg-note-properties":{"aliases":["two-minute rule"]}}
 ---
 
 # David Allen's two-minute rule

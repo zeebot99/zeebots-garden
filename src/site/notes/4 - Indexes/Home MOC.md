@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-indexes/home-moc/","noteIcon":"","updated":"2026-08-06T00:00:42.228-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/4-indexes/home-moc/","noteIcon":"","created":"2026-06-08T20:28:37.065-07:00","updated":"2026-08-06T00:00:42.228-07:00","dg-note-properties":{}}
 ---
 
 up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]] 
