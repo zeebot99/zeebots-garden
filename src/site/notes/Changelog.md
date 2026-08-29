@@ -8,6 +8,8 @@ up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]
 # Notes updated today
 | File                                                                                                                                     | Updated      |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [[4 - Indexes/4.1 - Paths/How to start a vegetable garden\|How to start a vegetable garden]]                                          | Aug 28, 2026 |
+| [[1 - Rough Notes/future note brain dump\|future note brain dump]]                                                                    | Aug 28, 2026 |
 | [[Changelog\|Changelog]]                                                                                                              | Aug 28, 2026 |
 | [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]                                                                          | Aug 28, 2026 |
 | [[1 - Rough Notes/writing ideas\|writing ideas]]                                                                                      | Aug 28, 2026 |
@@ -21,7 +23,6 @@ up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]
 | [[6 - Main Notes/USE\|USE]]                                                                                                           | Aug 28, 2026 |
 | [[6 - Main Notes/Why you should organize your knowledge\|Why you should organize your knowledge]]                                     | Aug 28, 2026 |
 | [[1 - Rough Notes/resources\|resources]]                                                                                              | Aug 28, 2026 |
-| [[1 - Rough Notes/future note brain dump\|future note brain dump]]                                                                    | Aug 28, 2026 |
 | [[6 - Main Notes/Zettelkasten\|Zettelkasten]]                                                                                         | Aug 28, 2026 |
 | [[6 - Main Notes/atomic note\|atomic note]]                                                                                           | Aug 28, 2026 |
 

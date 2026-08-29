@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-rough-notes/future-note-brain-dump/","noteIcon":"","created":"2026-01-13T20:33:09.287-08:00","updated":"2026-08-28T21:28:13.410-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/1-rough-notes/future-note-brain-dump/","noteIcon":"","created":"2026-01-13T20:33:09.287-08:00","updated":"2026-08-28T22:27:20.808-07:00","dg-note-properties":{}}
 ---
 
 # to create
@@ -9,13 +9,13 @@
 - [ ] web of knowledge
 - [ ] second brain
 - [ ] difference between web of knowledge and second brain
-- [ ] hub note
+- [ ] ~~hub note~~ 
 - [ ] ~~difference between hub note and MOC/TOC~~ i think they might be the same thing lol
 - [ ] Zettel thinking compass
 - [ ] growing ideas
 - [ ] resonance
 - [ ] resonance filter
-- [ ] progressive summarization
+- [ ] ~~progressive summarization~~ 
 - [ ] information overload
 - [ ] curiosity-driven life
 - [ ] my note-processing workflow
