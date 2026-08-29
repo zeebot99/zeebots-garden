@@ -8,6 +8,7 @@ up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]
 # Notes updated today 📝
 | File                                                                                                                                                                           | Updated      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
+| [[4 - Indexes/4.1 - Paths/How to make a website\|How to make a website]]                                                                                                    | Aug 29, 2026 |
 | [[1 - Rough Notes/writing ideas\|writing ideas]]                                                                                                                            | Aug 29, 2026 |
 | [[6 - Main Notes/second brain\|second brain]]                                                                                                                               | Aug 29, 2026 |
 | [[2 - Source Material/Videos/How to Achieve More While Studying Less - Obsidian & Conceptual Notes\|How to Achieve More While Studying Less - Obsidian & Conceptual Notes]] | Aug 29, 2026 |
