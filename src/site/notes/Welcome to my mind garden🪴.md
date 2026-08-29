@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/welcome-to-my-mind-garden/","tags":["gardenEntry"],"noteIcon":"","created":"2026-01-06T22:07:39.587-08:00","updated":"2026-07-29T20:06:00.824-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/welcome-to-my-mind-garden/","tags":["gardenEntry"],"noteIcon":"","created":"2026-01-06T22:07:39.587-08:00","updated":"2026-08-28T22:16:16.968-07:00","dg-note-properties":{}}
 ---
 
 # Welcome to my mind garden 🪴
-I'm [`zeebot`](https://zeebot.omg.lol), and this is where I do my public [[3 - Tags/digital gardening\|digital gardening]]. I write whatever comes to mind. You can explore with the sidebar on the left, via the search bar, through the folders, or just go [[4 - Indexes/Home MOC\|home]]. These notes are for me, so they have my opinions and thoughts on the material. Maybe you'll still get something out of it.
+I'm [`zeebot`](https://zeebot.omg.lol), and this is where I do my public [[3 - Tags/digital gardening\|digital gardening]]. I write whatever comes to mind. You can explore with the sidebar on the left, via the search bar, through the folders, the [[Changelog\|changelog]], or just go [[4 - Indexes/Home MOC\|home]]. These notes are for me, so they have my opinions and thoughts on the material. Maybe you'll still get something out of it.
 
 Current focus: [[3 - Tags/memory\|memory]] & [[3 - Tags/creativity\|creativity]] 
 Previous focus: [[4 - Indexes/Notetaking MOC\|notetaking]] 
