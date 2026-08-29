@@ -8,6 +8,7 @@ up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]
 # Notes updated today 📝
 | File                                                                                                                                                                           | Updated      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
+| [[1 - Rough Notes/writing ideas\|writing ideas]]                                                                                                                            | Aug 29, 2026 |
 | [[6 - Main Notes/second brain\|second brain]]                                                                                                                               | Aug 29, 2026 |
 | [[2 - Source Material/Videos/How to Achieve More While Studying Less - Obsidian & Conceptual Notes\|How to Achieve More While Studying Less - Obsidian & Conceptual Notes]] | Aug 29, 2026 |
 | [[2 - Source Material/Articles/A Beginner’s Guide to the Zettelkasten Method - Zenkit\|A Beginner’s Guide to the Zettelkasten Method - Zenkit]]                             | Aug 29, 2026 |
@@ -21,7 +22,6 @@ up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]
 | [[Changelog\|Changelog]]                                                                                                                                                    | Aug 29, 2026 |
 | [[4 - Indexes/Notetaking MOC\|Notetaking MOC]]                                                                                                                              | Aug 29, 2026 |
 | [[4 - Indexes/Cybersecurity MOC\|Cybersecurity MOC]]                                                                                                                        | Aug 29, 2026 |
-| [[1 - Rough Notes/writing ideas\|writing ideas]]                                                                                                                            | Aug 29, 2026 |
 
 { .block-language-dataview}
 
