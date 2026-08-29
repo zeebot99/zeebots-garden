@@ -1,17 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/4-indexes/sitemap/","noteIcon":"","created":"2026-06-08T20:28:37.065-07:00","updated":"2026-08-06T00:00:42.228-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/4-indexes/sitemap/","noteIcon":"","created":"2026-06-08T20:28:37.065-07:00","updated":"2026-08-29T09:46:31.314-07:00","dg-note-properties":{}}
 ---
 
 up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]] 
 
 ---
-# MOCs
+# Meta / Site pages
+- [[Changelog\|Changelog]] 
+- [[My digital garden's structure\|My digital garden's structure]] 
+- Sitemap (this page)
+
+---
+# Indexes / MOCs
 >[!question]- what is an [[6 - Main Notes/MoC\|MoC]]? 
 
 [[4 - Indexes/Cybersecurity MOC\|Cybersecurity MOC]] 
 [[4 - Indexes/Notetaking MOC\|Notetaking MOC]] 
 
-## Tags
+## Tag pages
 in creation order
 >[!note] check the backlinks for these to see the notes i made :)
 
