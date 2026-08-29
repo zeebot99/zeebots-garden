@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-rough-notes/future-note-brain-dump/","noteIcon":"","created":"2026-01-13T20:33:09.287-08:00","updated":"2026-07-29T20:17:20.065-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/1-rough-notes/future-note-brain-dump/","noteIcon":"","created":"2026-01-13T20:33:09.287-08:00","updated":"2026-08-28T21:28:13.410-07:00","dg-note-properties":{}}
 ---
 
 # to create
@@ -10,7 +10,7 @@
 - [ ] second brain
 - [ ] difference between web of knowledge and second brain
 - [ ] hub note
-- [ ] difference between hub note and MOC/TOC
+- [ ] ~~difference between hub note and MOC/TOC~~ i think they might be the same thing lol
 - [ ] Zettel thinking compass
 - [ ] growing ideas
 - [ ] resonance
