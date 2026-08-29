@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/4-indexes/notetaking-moc/","noteIcon":"","created":"2026-01-13T20:08:37.401-08:00","updated":"2026-08-28T21:41:30.080-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/4-indexes/notetaking-moc/","noteIcon":"","created":"2026-01-13T20:08:37.401-08:00","updated":"2026-08-29T08:53:57.050-07:00","dg-note-properties":{}}
 ---
 
-up: [[4 - Indexes/Home MOC\|Home MOC]] 
+up: [[4 - Indexes/Sitemap\|Sitemap]] 
 tag: [[3 - Tags/notetaking\|notetaking]] 
 
 ---

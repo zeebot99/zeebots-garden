@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/4-indexes/cybersecurity-moc/","noteIcon":"","created":"2026-01-14T00:42:06.357-08:00","updated":"2026-06-08T20:30:16.849-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/4-indexes/cybersecurity-moc/","noteIcon":"","created":"2026-01-14T00:42:06.357-08:00","updated":"2026-08-29T08:53:56.968-07:00","dg-note-properties":{}}
 ---
 
-up:: [[4 - Indexes/Home MOC\|Home MOC]] 
+up:: [[4 - Indexes/Sitemap\|Sitemap]] 
 
 ---
 
