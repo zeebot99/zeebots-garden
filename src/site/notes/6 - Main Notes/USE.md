@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/use/","noteIcon":"","created":"2026-07-29T19:27:57.749-07:00","updated":"2026-07-29T19:29:37.009-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/6-main-notes/use/","noteIcon":"","created":"2026-07-29T19:27:57.749-07:00","updated":"2026-08-28T21:34:01.039-07:00","dg-note-properties":{"aliases":["USE method"]}}
 ---
 
 # USE
-information that is unimportant, self-explanatory, or easy enough to memorize on the spot.
+information that is unimportant, self-explanatory, or easy enough to memorize on the spot. what you should ***not*** write down.
 
 ---
 # References

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/why-you-should-organize-your-knowledge/","noteIcon":"","created":"2026-01-09T20:32:44.771-08:00","updated":"2026-07-29T18:00:34.674-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/6-main-notes/why-you-should-organize-your-knowledge/","noteIcon":"","created":"2026-01-09T20:32:44.771-08:00","updated":"2026-08-28T21:32:49.648-07:00","dg-note-properties":{"aliases":["knowledge organization benefits"]}}
 ---
 
 # Why organize your knowledge?
-1. It helps you to remember what you read and what you learn.
+1. It helps you to remember what you consumed and what you learn.
 2. You have a knowledge base and/or personal wiki to refer back to.
-3. You build a system that works with you while you're writing or researching.
+3. You build a system that works with you while you're writing, researching, or working.
 4. It boosts your creativity.
 
 I've seen all the benefits above, but it also:
