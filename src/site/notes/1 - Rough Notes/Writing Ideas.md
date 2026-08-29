@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/1-rough-notes/writing-ideas/","noteIcon":"","created":"2026-01-06T22:07:39.437-08:00","updated":"2026-01-07T02:12:07.756-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/1-rough-notes/writing-ideas/","noteIcon":"","created":"2026-01-06T22:07:39.437-08:00","updated":"2026-08-28T22:06:47.346-07:00","dg-note-properties":{}}
 ---
 
-# site to-do
-- [ ] [join the indie web](https://indiewebify.me/) (for [my personal site](https://zeebot.weblog.lol))
-- [ ] create a dw shrine (for [my personal site](https://zeebot.weblog.lol))
+# sites to-do
+- [ ] [join the indie web](https://indiewebify.me/) (for [my personal blog](https://zeebots.space))
+- [ ] create a doctor who shrine (for [my neocitites site](https://zeebots-space.neocities.org))
 - [ ] mirror [source code](https://github.com/zeebot99/zeebots-garden) to [sourcehut](https://git.sr.ht/~zeebot/zeebots-garden) 
 
 ---

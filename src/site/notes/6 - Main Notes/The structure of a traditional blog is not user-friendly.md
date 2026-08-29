@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/the-structure-of-a-traditional-blog-is-not-user-friendly/","noteIcon":"","created":"2026-01-06T22:07:39.568-08:00","updated":"2026-06-08T20:44:53.170-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/6-main-notes/the-structure-of-a-traditional-blog-is-not-user-friendly/","noteIcon":"","created":"2026-01-06T22:07:39.568-08:00","updated":"2026-08-28T22:02:49.550-07:00","dg-note-properties":{"aliases":["user-friendly blog structure"]}}
 ---
 
 # The structure of a traditional blog is not user-friendly
 The structure of a traditional blog is [[6 - Main Notes/pagination\|paginated]] posts sorted chronologically by creation date, newest-first. This is (typically) not how anyone who uses the Internet navigates a website. Ordered by prevalence, a user will use
-1. a search engine,
+1. a general search engine,
 2. the search engine on a specific site, or
 3. the `/tags` page.
 

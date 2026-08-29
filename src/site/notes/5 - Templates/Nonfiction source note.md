@@ -1,20 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/5-templates/nonfiction-source-note/","noteIcon":"","created":"2026-07-29T17:39:48.031-07:00","updated":"2026-07-29T18:16:04.800-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/5-templates/nonfiction-source-note/","noteIcon":"","created":"2026-07-29T17:39:48.031-07:00","updated":"2026-08-28T22:00:58.614-07:00","dg-note-properties":{}}
 ---
 
-# summary
+# ✍🏾 summary
 text
-# how i discovered it
-# who should watch it?
+# 🔎 how i discovered it
+# 👀who should watch it?
 
-# how it changed me
+# ✨ how it changed me
 
-# favorite quotes
+# 💬 favorite quotes
 text
 
 ---
 
-# References
+# 📋 references
 *Source:* (link)
 
 Tags: 
