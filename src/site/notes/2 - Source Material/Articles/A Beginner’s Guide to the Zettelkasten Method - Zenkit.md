@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-source-material/articles/a-beginner-s-guide-to-the-zettelkasten-method-zenkit/","noteIcon":"","created":"2026-01-07T05:11:10.969-08:00","updated":"2026-07-29T18:19:37.382-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/2-source-material/articles/a-beginner-s-guide-to-the-zettelkasten-method-zenkit/","noteIcon":"","created":"2026-01-07T05:11:10.969-08:00","updated":"2026-08-29T09:59:04.686-07:00","dg-note-properties":{}}
 ---
 
 >[!quote]+ information overload
@@ -23,7 +23,7 @@ zettel method is good for having a personal search & growing ideas (digital gard
 >km: treating ideas, thoughts, and info like tasks to use knowledge effectively
 
 >[!quote]+ web of knowledge
->how is a web of knowledge different from a second brain? are they different  words for the same thing?
+>how is a web of knowledge different from a [[6 - Main Notes/second brain\|second brain]]? are they different  words for the same thing?
 
 >[!quote]+ “second brain”
 >i see this around a lot, and i've used it before, but i'm not sure what this means

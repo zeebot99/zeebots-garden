@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-rough-notes/future-note-brain-dump/","noteIcon":"","created":"2026-01-13T20:33:09.287-08:00","updated":"2026-08-29T08:53:56.900-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/1-rough-notes/future-note-brain-dump/","noteIcon":"","created":"2026-01-13T20:33:09.287-08:00","updated":"2026-08-29T09:58:50.537-07:00","dg-note-properties":{}}
 ---
 
 up: [[1 - Rough Notes/writing ideas\|writing ideas]]
@@ -10,7 +10,7 @@ up: [[1 - Rough Notes/writing ideas\|writing ideas]]
 - [x] knowledge management
 - [x] why organize your knowledge?
 - [ ] web of knowledge
-- [ ] second brain
+- [x] [[6 - Main Notes/second brain\|second brain]] 
 - [ ] difference between web of knowledge and second brain
 - [ ] ~~hub note~~ 
 - [ ] ~~difference between hub note and MOC/TOC~~ i think they might be the same thing lol
@@ -26,7 +26,7 @@ up: [[1 - Rough Notes/writing ideas\|writing ideas]]
 - [x] [[4 - Indexes/Cybersecurity MOC\|Cybersecurity MOC]] 
 - [x] [[4 - Indexes/Sitemap\|Sitemap]] 
 - [ ] credits / thanks / how i made this garden
-- [ ] minimalism
+- [ ] [[minimalism\|minimalism]] 
 
 ---
 

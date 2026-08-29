@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/2-source-material/videos/how-to-achieve-more-while-studying-less-obsidian-and-conceptual-notes/","noteIcon":"","created":"2026-07-29T17:33:09.993-07:00","updated":"2026-07-29T20:00:27.073-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/2-source-material/videos/how-to-achieve-more-while-studying-less-obsidian-and-conceptual-notes/","noteIcon":"","created":"2026-07-29T17:33:09.993-07:00","updated":"2026-08-29T10:03:39.709-07:00","dg-note-properties":{}}
 ---
 
-# summary
+# summary 📝
 ## why take notes?
 We tend to remember what we think about a lot and what we view from different viewpoints. We want to take notes to retain information so we can pursue our passions.
 
@@ -15,7 +15,7 @@ Trust yourself to only write down what you need to be creative, then create new 
 You can do this with your old notes too. This will make them grow over time with your new ones instead of limiting physics concepts to your physics notebook.
 
 ## how **not** to take notes
-Don't write down:
+In class, don't write down:
 
 1. anything that falls under [[6 - Main Notes/USE\|USE]],
 2. what you can remember without reminders,
@@ -26,20 +26,21 @@ Example: Write down not the examples given in class, but every part of the examp
 
 ---
 
-# context
-## how i discovered it
+# context 📃
+## how i discovered it 🔎
 Pretty sure this one just got recommended to me via YouTube's algorithm. I watch a lot of stuff on taking notes. You [[4 - Indexes/Notetaking MOC\|might have noticed]].
-## who should watch it?
+## who should watch it? 👀
 Anyone looking to remember what they hear in a class or read in a book, without needing specific tools or spending anything.
 
-# how it changed me
+# how it changed me ✨
 ## insights
 - I take notes to write so I can learn so I can write some more.
 - [[6 - Main Notes/Creativity ≠ novelty\|Creativity ≠ novelty]].
 ## seeing differently
-All the content about notetaking can be filled with unexplained jargon ("PKM," "second brain," "digital garden," "commonplace book," etc), which can scare off people who just want to learn about notes. This video was able to talk about the same concepts without--for lack of a better term, "scaring the hoes."
+All the content about notetaking can be filled with unexplained jargon ("PKM," "[[6 - Main Notes/second brain\|second brain]]," "digital garden," "commonplace book," etc), which can scare off people who just want to learn about notes. This video was able to talk about the same concepts without--for lack of a better term, "scaring the hoes."
 
-# favorite quotes
+---
+# favorite quotes 💬
 >[!quote]+ When you’re first taught how to take notes, you’re told something along the lines of "write down the important stuff." But if you’re like a younger me, then you just interpret basically everything the teacher was saying as being important. Why else would they be telling it to you?
 >it took me years to learn this. children, if you internalize one thing from this note, let it be this.
 
@@ -59,7 +60,7 @@ All the content about notetaking can be filled with unexplained jargon ("PKM," "
 
 ---
 
-# references
+# references 📋
 *Source:* [vid](https://m.youtube.com/watch?v=MYJsGksojms) 
 
 Tags: [[3 - Tags/notetaking\|notetaking]], [[3 - Tags/creativity\|creativity]] 
