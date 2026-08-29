@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/changelog/","noteIcon":"","created":"2026-08-28T22:12:25.629-07:00","updated":"2026-08-29T09:04:15.746-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/changelog/","noteIcon":"","created":"2026-08-28T22:12:25.629-07:00","updated":"2026-08-29T09:06:37.703-07:00","dg-note-properties":{}}
 ---
 
 up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]] 
@@ -26,6 +26,7 @@ up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]
 - Sorted this changelog by years and month headings instead of just dates
 	- I plan to have this site for a long time. I made this change now to help me in the future and add a table of contents!
 - Changed "Home MOC" to [[4 - Indexes/Sitemap\|Sitemap]] 
+	- I didn't like that it was called "Home MOC." In my head that contradicted my [[Welcome to my mind garden🪴\|actual homepage]]. So I renamed it :)
 - Linked [[1 - Rough Notes/future note brain dump\|future note brain dump]] and [[1 - Rough Notes/writing ideas\|writing ideas]] together
 #### 28 (fri)
 - Added this changelog!
