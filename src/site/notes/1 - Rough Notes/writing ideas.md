@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-rough-notes/writing-ideas/","noteIcon":"","created":"2026-01-06T22:07:39.437-08:00","updated":"2026-08-29T10:15:46.868-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/1-rough-notes/writing-ideas/","noteIcon":"","created":"2026-01-06T22:07:39.437-08:00","updated":"2026-08-29T17:06:37.675-07:00","dg-note-properties":{}}
 ---
 
 up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]] 
@@ -9,6 +9,7 @@ up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]
 - [ ] [join the indie web](https://indiewebify.me/) for [my personal blog](https://zeebots.space) (indieauth, relmeauth, webmentions)
 - [ ] create a doctor who shrine (for [my neocitites](https://zeebots-space.neocities.org))
 - [ ] mirror this site's [source code](https://github.com/zeebot99/zeebots-garden) to [sourcehut](https://git.sr.ht/~zeebot/zeebots-garden) 
+- [ ] [run pagecord locally](https://richard.dallaway.com/running-pagecord-locally) 
 
 ---
 

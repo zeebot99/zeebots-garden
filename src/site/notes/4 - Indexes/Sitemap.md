@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-indexes/sitemap/","noteIcon":"","created":"2026-06-08T20:28:37.065-07:00","updated":"2026-08-29T09:46:31.314-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/4-indexes/sitemap/","noteIcon":"","created":"2026-06-08T20:28:37.065-07:00","updated":"2026-08-29T14:51:43.254-07:00","dg-note-properties":{}}
 ---
 
 up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]] 
@@ -8,7 +8,11 @@ up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]
 # Meta / Site pages
 - [[Changelog\|Changelog]] 
 - [[My digital garden's structure\|My digital garden's structure]] 
+- [[Resources\|Resources]] 
 - Sitemap (this page)
+## Rough notes
+- [[1 - Rough Notes/writing ideas\|writing ideas]] 
+- [[1 - Rough Notes/future note brain dump\|future note brain dump]] 
 
 ---
 # Indexes / MOCs

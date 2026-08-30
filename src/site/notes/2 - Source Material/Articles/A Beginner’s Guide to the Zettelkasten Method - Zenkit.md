@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-source-material/articles/a-beginner-s-guide-to-the-zettelkasten-method-zenkit/","noteIcon":"","created":"2026-01-07T05:11:10.969-08:00","updated":"2026-08-29T09:59:04.686-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/2-source-material/articles/a-beginner-s-guide-to-the-zettelkasten-method-zenkit/","noteIcon":"","created":"2026-01-07T05:11:10.969-08:00","updated":"2026-08-29T13:07:19.894-07:00","dg-note-properties":{}}
 ---
 
 >[!quote]+ information overload
@@ -84,5 +84,7 @@ are there other, non-main types? what are they?
 
 # References
 *Source:* https://zenkit.com/en/blog/a-beginners-guide-to-the-zettelkasten-method/
+
+Status: #edit 
 
 Tags: [[3 - Tags/notetaking\|notetaking]], [[3 - Tags/knowledge management systems\|knowledge management systems]] 

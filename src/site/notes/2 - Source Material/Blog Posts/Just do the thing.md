@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-source-material/blog-posts/just-do-the-thing/","noteIcon":"","created":"2026-08-05T23:02:54.015-07:00","updated":"2026-08-28T22:01:09.965-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/2-source-material/blog-posts/just-do-the-thing/","noteIcon":"","created":"2026-08-05T23:02:54.015-07:00","updated":"2026-08-29T13:00:11.945-07:00","dg-note-properties":{}}
 ---
 
 # ✍🏾 summary
@@ -23,5 +23,5 @@ gave me some motivation to move forward no matter what
 
 # 📋references
 *Source:* https://www.oliverburkeman.com/justdo 
-
+Status: #published 
 Tags: [[3 - Tags/agency\|agency]], [[3 - Tags/productivity\|productivity]] 
