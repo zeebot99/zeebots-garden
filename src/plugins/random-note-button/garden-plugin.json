@@ -1,0 +1,19 @@
+{
+  "id": "random-note-button",
+  "name": "Random Note Button",
+  "version": "1.0.0",
+  "description": "A dice button in the navigation that jumps to a random note.",
+  "author": "Ole Eskild Steensen",
+  "slots": {
+    "navbar.actions": "templates/button.njk",
+    "filetree.actions": "templates/button.njk"
+  },
+  "settings": [
+    {
+      "key": "label",
+      "name": "Button label",
+      "type": "text",
+      "default": "Random note"
+    }
+  ]
+}

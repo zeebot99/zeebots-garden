@@ -69,6 +69,18 @@
         "src/plugins/related-notes/styles/related.scss",
         "src/plugins/related-notes/templates/related.njk"
       ]
+    },
+    "random-note-button": {
+      "repo": "oleeskild/garden-plugin-random-note-button",
+      "installedVersion": "1.0.0",
+      "installedRef": "v1.0.0",
+      "installedAt": "2026-09-01T18:46:29.210Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/random-note-button/README.md",
+        "src/plugins/random-note-button/garden-plugin.json",
+        "src/plugins/random-note-button/templates/button.njk"
+      ]
     }
   }
 }
