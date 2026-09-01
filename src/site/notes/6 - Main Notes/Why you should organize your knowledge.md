@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/why-you-should-organize-your-knowledge/","noteIcon":"","created":"2026-01-09T20:32:44.771-08:00","updated":"2026-08-28T21:32:49.648-07:00","dg-note-properties":{"aliases":["knowledge organization benefits"]}}
+{"dg-publish":true,"permalink":"/6-main-notes/why-you-should-organize-your-knowledge/","noteIcon":"","created":"2026-01-09T20:32:44.771-08:00","updated":"2026-09-01T13:16:47.330-07:00","dg-note-properties":{"aliases":["knowledge organization benefits"]}}
 ---
 
 # Why organize your knowledge?
@@ -17,7 +17,7 @@ I've seen all the benefits above, but it also:
 # References
 Created: 2026-01-09 20:33
 
-Related: [[6 - Main Notes/knowledge management\|knowledge management]], [[6 - Main Notes/Zettelkasten advantages\|Zettelkasten advantages]], [[3 - Tags/creativity\|creativity]] 
+Related: [[6 - Main Notes/knowledge management\|knowledge management]], [[6 - Main Notes/Zettelkasten advantages\|Zettelkasten advantages]], [[3 - Tags/creativity\|creativity]], [[6 - Main Notes/second brain\|second brain]] 
 
 Tags: [[3 - Tags/knowledge management systems\|knowledge management systems]] 
 

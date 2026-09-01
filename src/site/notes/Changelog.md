@@ -6,16 +6,18 @@ up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]
 
 ---
 # Notes updated today 📝
-| File                                                                                                | Updated      |
-| --------------------------------------------------------------------------------------------------- | ------------ |
-| [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]                                     | Sep 01, 2026 |
-| [[Changelog\|Changelog]]                                                                         | Sep 01, 2026 |
-| [[2 - Source Material/Books/A System For Writing by Bob Doto\|A System For Writing by Bob Doto]] | Sep 01, 2026 |
-| [[6 - Main Notes/structure note\|structure note]]                                                | Sep 01, 2026 |
-| [[6 - Main Notes/hub note\|hub note]]                                                            | Sep 01, 2026 |
-| [[1 - Rough Notes/future note brain dump\|future note brain dump]]                               | Sep 01, 2026 |
-| [[2 - Source Material/Books/How to Take Smart Notes by Sonke\|How to Take Smart Notes by Sonke]] | Sep 01, 2026 |
-| [[6 - Main Notes/Creativity ≠ novelty\|Creativity ≠ novelty]]                                    | Sep 01, 2026 |
+| File                                                                                                 | Updated      |
+| ---------------------------------------------------------------------------------------------------- | ------------ |
+| [[6 - Main Notes/Writing clarifies your thinking\|Writing clarifies your thinking]]               | Sep 01, 2026 |
+| [[6 - Main Notes/Why you should organize your knowledge\|Why you should organize your knowledge]] | Sep 01, 2026 |
+| [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]                                      | Sep 01, 2026 |
+| [[Changelog\|Changelog]]                                                                          | Sep 01, 2026 |
+| [[2 - Source Material/Books/A System For Writing by Bob Doto\|A System For Writing by Bob Doto]]  | Sep 01, 2026 |
+| [[6 - Main Notes/structure note\|structure note]]                                                 | Sep 01, 2026 |
+| [[6 - Main Notes/hub note\|hub note]]                                                             | Sep 01, 2026 |
+| [[1 - Rough Notes/future note brain dump\|future note brain dump]]                                | Sep 01, 2026 |
+| [[2 - Source Material/Books/How to Take Smart Notes by Sonke\|How to Take Smart Notes by Sonke]]  | Sep 01, 2026 |
+| [[6 - Main Notes/Creativity ≠ novelty\|Creativity ≠ novelty]]                                     | Sep 01, 2026 |
 
 { .block-language-dataview}
 
