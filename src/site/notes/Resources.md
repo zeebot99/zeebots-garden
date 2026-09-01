@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resources/","noteIcon":"","created":"2026-01-06T22:07:39.441-08:00","updated":"2026-08-29T17:09:26.040-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/resources/","noteIcon":"","created":"2026-01-06T22:07:39.441-08:00","updated":"2026-09-01T14:52:59.309-07:00","dg-note-properties":{}}
 ---
 
 up: [[4 - Indexes/Sitemap\|Sitemap]] 
@@ -34,7 +34,8 @@ my tag: [[3 - Tags/digital gardening\|digital gardening]]
 - https://hiran.in/ -- i got the structure of my posts from hiran's *working notes* :)
 - https://tomcritchlow.com/wiki/ -- i love the recently updated list on the homepage
 - https://anhvn.com/ -- this site is *gorgeous* <3
-- https://garden.carolynyoo.com/ -- i took my fiction and [[5 - Templates/Nonfiction source note\|Nonfiction source note]] templates from here!
+- https://garden.carolynyoo.com/ -- i took my [[5 - Templates/Fiction source note\|fiction]] and [[5 - Templates/Nonfiction source note\|Nonfiction source note]] templates from here!
+- https://mathieu.deraedt.dev/ - i like that mathieu separates the researched notes from the regular ones
 ## lists of gardens / websites
 - [obsidian garden gallery](https://vaults.obsidian-community.com/)!!
 ## articles & blog posts

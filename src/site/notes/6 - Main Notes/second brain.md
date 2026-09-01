@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/second-brain/","noteIcon":"","created":"2026-08-29T09:55:13.233-07:00","updated":"2026-08-29T10:11:41.068-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/6-main-notes/second-brain/","noteIcon":"","created":"2026-08-29T09:55:13.233-07:00","updated":"2026-09-01T14:09:13.965-07:00","dg-note-properties":{}}
 ---
 
 # second brain
-a place where you keep information that is not in your head. This can be digitally, through applications, or physically, through journals or planners.
+A place where you keep information that is not in your head. This can be digitally, through applications, or physically, through journals or planners.
 
 ---
 # References
@@ -18,4 +18,4 @@ Tags: [[3 - Tags/notetaking\|notetaking]], [[3 - Tags/memory\|memory]], [[6 - Ma
 Status: #edit 
 
 ## Source Material
-Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential 
+Building a Second Brain by Tiago Forte
