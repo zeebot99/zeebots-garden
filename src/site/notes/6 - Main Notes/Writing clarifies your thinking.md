@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/writing-clarifies-your-thinking/","noteIcon":"","created":"2026-09-01T13:10:41.729-07:00","updated":"2026-09-01T13:17:13.558-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/6-main-notes/writing-clarifies-your-thinking/","noteIcon":"","created":"2026-09-01T13:10:41.729-07:00","updated":"2026-09-01T13:29:28.189-07:00","dg-note-properties":{}}
 ---
 
 # Writing clarifies your thinking
-Names have power. Naming your thought forces categorization and clarification, which helps with creating something from it.
+[[6 - Main Notes/Names have power\|Names have power]]. Naming your thought forces categorization and clarification, which helps with creating something from it.
 
 ---
 # References

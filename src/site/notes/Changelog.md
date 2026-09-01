@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/changelog/","noteIcon":"","created":"2026-08-28T22:12:25.629-07:00","updated":"2026-09-01T13:02:53.323-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/changelog/","noteIcon":"","created":"2026-08-28T22:12:25.629-07:00","updated":"2026-09-01T13:25:09.878-07:00","dg-note-properties":{}}
 ---
 
 up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]] 
@@ -9,9 +9,10 @@ up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]
 | File                                                                                                 | Updated      |
 | ---------------------------------------------------------------------------------------------------- | ------------ |
 | [[6 - Main Notes/Writing clarifies your thinking\|Writing clarifies your thinking]]               | Sep 01, 2026 |
+| [[6 - Main Notes/Names have power\|Names have power]]                                             | Sep 01, 2026 |
+| [[Changelog\|Changelog]]                                                                          | Sep 01, 2026 |
 | [[6 - Main Notes/Why you should organize your knowledge\|Why you should organize your knowledge]] | Sep 01, 2026 |
 | [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]                                      | Sep 01, 2026 |
-| [[Changelog\|Changelog]]                                                                          | Sep 01, 2026 |
 | [[2 - Source Material/Books/A System For Writing by Bob Doto\|A System For Writing by Bob Doto]]  | Sep 01, 2026 |
 | [[6 - Main Notes/structure note\|structure note]]                                                 | Sep 01, 2026 |
 | [[6 - Main Notes/hub note\|hub note]]                                                             | Sep 01, 2026 |
@@ -26,8 +27,10 @@ up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]
 ## 2026 
 ### September
 #### 1st (tues)
-- Added [[2 - Source Material/Books/How to Take Smart Notes by Sonke\|How to Take Smart Notes by Sonke]] and [[2 - Source Material/Books/A System For Writing by Bob Doto\|A System For Writing by Bob Doto]] from No Boilerplate's 
+- Added [[2 - Source Material/Books/How to Take Smart Notes by Sonke\|How to Take Smart Notes by Sonke]], [[2 - Source Material/Books/A System For Writing by Bob Doto\|A System For Writing by Bob Doto]], [[6 - Main Notes/Writing clarifies your thinking\|Writing clarifies your thinking]], and [[6 - Main Notes/Names have power\|Names have power]] from No Boilerplate's StudentVault in Patreon
 - Added contact form and rel-me links to Welcome to my mind garden🪴
+- Site is now at the subdomain `garden.zeebots.space` 
+- Enabled IndieAuth and webmentions!
 ### August 
 #### 29 (sat)
 - Sorted this changelog by years and month headings instead of just dates
