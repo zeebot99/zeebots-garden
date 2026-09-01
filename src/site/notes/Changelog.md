@@ -8,8 +8,8 @@ up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]
 # Notes updated today 📝
 | File                                                                        | Updated      |
 | --------------------------------------------------------------------------- | ------------ |
-| [[Changelog\|Changelog]]                                                 | Sep 01, 2026 |
 | [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]             | Sep 01, 2026 |
+| [[Changelog\|Changelog]]                                                 | Sep 01, 2026 |
 | [[1 - Rough Notes/A System For Writing\|A System For Writing]]           | Sep 01, 2026 |
 | [[2 - Source Material/How to Take Smart Notes\|How to Take Smart Notes]] | Sep 01, 2026 |
 
