@@ -16,4 +16,4 @@ Tags: [[3 - Tags/blog terms + library science\|blog terms + library science]]
 Status: #draft 
 
 ## Source Material
-[[2 - Source Material/🌱 My blog is a digital garden, not a blog\|🌱 My blog is a digital garden, not a blog]] 
+[[2 - Source Material/Blog Posts/🌱 My blog is a digital garden, not a blog\|🌱 My blog is a digital garden, not a blog]] 

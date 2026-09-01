@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome-to-my-mind-garden/","tags":["gardenEntry"],"noteIcon":"","created":"2026-01-06T22:07:39.587-08:00","updated":"2026-09-01T12:59:15.612-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/welcome-to-my-mind-garden/","tags":["gardenEntry"],"noteIcon":"","created":"2026-01-06T22:07:39.587-08:00","updated":"2026-09-01T13:03:31.274-07:00","dg-note-properties":{}}
 ---
 
 # Welcome to my mind garden 🪴
@@ -19,7 +19,7 @@ Previous focus: [[3 - Tags/memory\|memory]] & [[3 - Tags/creativity\|creativity]
 
 ---
 ## Contact me
-You can find me on <a rel="me" href="https://social.lol/@zeebot">Mastodon</a>, use the form below, or see the full list on [my blog](https://zeebots.space/contact).
+This site accepts webmentions! You can find me on <a rel="me" href="https://social.lol/@zeebot">Mastodon</a>, use the form below, or see the full list on [my blog](https://zeebots.space/contact).
 <script data-letterbirduser="zeebot10" src="https://letterbird.co/embed/v1.js"></script> <link href="https://github.com/zeebot99" rel="me"> <link rel="webmention" href="https://webmention.io/garden.zeebots.space/webmention" />
 
 ---

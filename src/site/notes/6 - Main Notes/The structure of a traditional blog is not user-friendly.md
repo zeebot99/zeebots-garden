@@ -19,4 +19,4 @@ Tags: [[3 - Tags/digital gardening\|digital gardening]], [[3 - Tags/website desi
 Status: #published  
 
 ## Source Material
-[[2 - Source Material/🌱 My blog is a digital garden, not a blog\|🌱 My blog is a digital garden, not a blog]] 
+[[2 - Source Material/Blog Posts/🌱 My blog is a digital garden, not a blog\|🌱 My blog is a digital garden, not a blog]] 

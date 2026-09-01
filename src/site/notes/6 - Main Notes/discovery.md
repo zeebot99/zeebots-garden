@@ -15,6 +15,6 @@ Status: #published
 
 ## Source Material
 
-[[2 - Source Material/🌱 My blog is a digital garden, not a blog\|🌱 My blog is a digital garden, not a blog]] 
+[[2 - Source Material/Blog Posts/🌱 My blog is a digital garden, not a blog\|🌱 My blog is a digital garden, not a blog]] 
 
 External: Discovery layer definition from [Wikipedia: Discovery system](https://en.wikipedia.org/wiki/Discovery_system_(bibliographic_search)) and [Reddit -- ELI5: What is a discovery layer?](https://www.reddit.com/r/librarians/comments/s9fezs/eli5_what_is_a_discovery_layer/) 

@@ -16,4 +16,4 @@ Tags: [[3 - Tags/notetaking\|notetaking]]
 Status: #published 
 
 ## Source Material
-[[1 - Rough Notes/A System For Writing by Bob Doto\|A System For Writing by Bob Doto]] 
+[[2 - Source Material/Books/A System For Writing by Bob Doto\|A System For Writing by Bob Doto]] 

@@ -18,5 +18,5 @@ tag: [[3 - Tags/notetaking\|notetaking]]
 - "[[6 - Main Notes/Be comfortable with forgetting\|Be comfortable with forgetting]]."
 - "[[6 - Main Notes/What we write down is what we remember\|What we write down is what we remember]]."
 # Sources
-- [[2 - Source Material/A Beginner’s Guide to the Zettelkasten Method - Zenkit\|A Beginner’s Guide to the Zettelkasten Method - Zenkit]] 
+- [[2 - Source Material/Articles/A Beginner’s Guide to the Zettelkasten Method - Zenkit\|A Beginner’s Guide to the Zettelkasten Method - Zenkit]] 
 - [[2 - Source Material/Videos/How to Achieve More While Studying Less - Obsidian & Conceptual Notes\|How to Achieve More While Studying Less - Obsidian & Conceptual Notes]] 
