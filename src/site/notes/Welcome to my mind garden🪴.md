@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome-to-my-mind-garden/","tags":["gardenEntry"],"noteIcon":"","created":"2026-01-06T22:07:39.587-08:00","updated":"2026-08-29T09:50:04.909-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/welcome-to-my-mind-garden/","tags":["gardenEntry"],"noteIcon":"","created":"2026-01-06T22:07:39.587-08:00","updated":"2026-09-01T12:10:50.074-07:00","dg-note-properties":{}}
 ---
 
 # Welcome to my mind garden 🪴
@@ -17,4 +17,6 @@ Previous focus: [[4 - Indexes/Notetaking MOC\|notetaking]]
 >To create a note, press `Ctrl + O`, type in your title, then press `Shift + Enter`.
 >Write **_one idea per note_**. You should be able to see it all without scrolling.
 
-
+## Contact me
+You can find me on <a rel="me" href="https://social.lol/@zeebot">Mastodon</a>, use the form below, or see the full list on [my blog](https://zeebots.space/contact).
+<script data-letterbirduser="zeebot10" src="https://letterbird.co/embed/v1.js"></script>
