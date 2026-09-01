@@ -6,26 +6,8 @@ up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]
 
 ---
 # Notes updated today 📝
-| File                                                                                                                                                                           | Updated      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
-| [[4 - Indexes/4.1 - Paths/How to make a website\|How to make a website]]                                                                                                    | Aug 29, 2026 |
-| [[Resources\|Resources]]                                                                                                                                                    | Aug 29, 2026 |
-| [[1 - Rough Notes/writing ideas\|writing ideas]]                                                                                                                            | Aug 29, 2026 |
-| [[4 - Indexes/Sitemap\|Sitemap]]                                                                                                                                            | Aug 29, 2026 |
-| [[Changelog\|Changelog]]                                                                                                                                                    | Aug 29, 2026 |
-| [[2 - Source Material/Blog Posts/🌱 My blog is a digital garden, not a blog\|🌱 My blog is a digital garden, not a blog]]                                                   | Aug 29, 2026 |
-| [[2 - Source Material/Articles/A Beginner’s Guide to the Zettelkasten Method - Zenkit\|A Beginner’s Guide to the Zettelkasten Method - Zenkit]]                             | Aug 29, 2026 |
-| [[2 - Source Material/Videos/How to Achieve More While Studying Less - Obsidian & Conceptual Notes\|How to Achieve More While Studying Less - Obsidian & Conceptual Notes]] | Aug 29, 2026 |
-| [[5 - Templates/Fiction source note\|Fiction source note]]                                                                                                                  | Aug 29, 2026 |
-| [[5 - Templates/Nonfiction source note\|Nonfiction source note]]                                                                                                            | Aug 29, 2026 |
-| [[2 - Source Material/Blog Posts/Just do the thing\|Just do the thing]]                                                                                                     | Aug 29, 2026 |
-| [[6 - Main Notes/second brain\|second brain]]                                                                                                                               | Aug 29, 2026 |
-| [[1 - Rough Notes/future note brain dump\|future note brain dump]]                                                                                                          | Aug 29, 2026 |
-| [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]                                                                                                                | Aug 29, 2026 |
-| [[My digital garden's structure\|My digital garden's structure]]                                                                                                            | Aug 29, 2026 |
-| [[5 - Templates/Topic note\|Topic note]]                                                                                                                                    | Aug 29, 2026 |
-| [[4 - Indexes/Notetaking MOC\|Notetaking MOC]]                                                                                                                              | Aug 29, 2026 |
-| [[4 - Indexes/Cybersecurity MOC\|Cybersecurity MOC]]                                                                                                                        | Aug 29, 2026 |
+| File | Updated |
+| ---- | ------- |
 
 { .block-language-dataview}
 
