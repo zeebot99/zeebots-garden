@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-rough-notes/future-note-brain-dump/","noteIcon":"","created":"2026-01-13T20:33:09.287-08:00","updated":"2026-08-29T09:58:50.537-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/1-rough-notes/future-note-brain-dump/","noteIcon":"","created":"2026-01-13T20:33:09.287-08:00","updated":"2026-09-01T12:50:50.040-07:00","dg-note-properties":{}}
 ---
 
 up: [[1 - Rough Notes/writing ideas\|writing ideas]]
@@ -12,7 +12,7 @@ up: [[1 - Rough Notes/writing ideas\|writing ideas]]
 - [ ] web of knowledge
 - [x] [[6 - Main Notes/second brain\|second brain]] 
 - [ ] difference between web of knowledge and second brain
-- [ ] ~~hub note~~ 
+- [x] ~~[[6 - Main Notes/hub note\|hub note]]~~ 
 - [ ] ~~difference between hub note and MOC/TOC~~ i think they might be the same thing lol
 - [ ] Zettel thinking compass
 - [ ] growing ideas
