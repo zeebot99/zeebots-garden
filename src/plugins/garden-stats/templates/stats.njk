@@ -1,0 +1,16 @@
+{%- set gpStats = graph | gpGardenStats(pluginSettings.topCount) -%}
+<div class="gp-garden-stats">
+  <div class="gp-stats-title">Garden stats</div>
+  <div class="gp-stats-numbers">
+    <span><strong>{{ gpStats.noteCount }}</strong> notes</span>
+    <span><strong>{{ gpStats.linkCount }}</strong> links</span>
+  </div>
+  {%- if gpStats.topLinked.length > 0 -%}
+  <div class="gp-stats-top">
+    <div class="gp-stats-subtitle">Most linked</div>
+    {%- for note in gpStats.topLinked -%}
+    <a class="internal-link" href="{{ note.url }}">{{ note.title }} <span class="gp-stats-count">×{{ note.backlinks }}</span></a>
+    {%- endfor -%}
+  </div>
+  {%- endif -%}
+</div>

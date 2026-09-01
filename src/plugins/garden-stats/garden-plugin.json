@@ -1,0 +1,20 @@
+{
+  "id": "garden-stats",
+  "name": "Garden Stats",
+  "version": "1.0.0",
+  "description": "A sidebar widget with your garden's vital signs: note count, link count, and the most-linked notes.",
+  "author": "Ole Eskild Steensen",
+  "hooks": "index.js",
+  "slots": {
+    "sidebar.bottom": "templates/stats.njk"
+  },
+  "styles": ["styles/stats.scss"],
+  "settings": [
+    {
+      "key": "topCount",
+      "name": "Most-linked notes to show",
+      "type": "number",
+      "default": 3
+    }
+  ]
+}
