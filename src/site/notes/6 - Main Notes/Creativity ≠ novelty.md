@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/creativity-novelty/","noteIcon":"","created":"2026-07-29T18:31:34.395-07:00","updated":"2026-08-28T21:52:08.179-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/6-main-notes/creativity-novelty/","noteIcon":"","created":"2026-07-29T18:31:34.395-07:00","updated":"2026-09-01T12:26:07.443-07:00","dg-note-properties":{}}
 ---
 
 # Creativity ≠ novelty
-[[6 - Main Notes/Creativity is just making something new\|Creativity is just making something new]]. Let me explain with an analogy: I don't eat my partner's pork chops because I've never head pork chops before. I eat them because *he* made them.
+[[6 - Main Notes/Creativity is just making something new\|Creativity is just making something new]]. An analogy: I don't eat my partner's pork chops because I've never head pork chops before. I eat them because *he* made them.
 
 There's (probably) hundreds of thousands of songs about love, for example, but any new song is a net good.[^1]
 

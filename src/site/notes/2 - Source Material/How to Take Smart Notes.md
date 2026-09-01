@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-source-material/how-to-take-smart-notes/","noteIcon":"","created":"2026-09-01T10:18:06.630-07:00","updated":"2026-09-01T11:18:33.507-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/2-source-material/how-to-take-smart-notes/","noteIcon":"","created":"2026-09-01T10:18:06.630-07:00","updated":"2026-09-01T12:49:56.264-07:00","dg-note-properties":{}}
 ---
 
 # ✍🏾 summary
@@ -67,13 +67,13 @@ c) Making sure you will be able to find this note later by either linking to it 
 
 ---
 
-# 💡 concepts mentioned
-- confirmation bias
-- 
-
 # 📋 references
 *Source:* (link)
 
+Concepts mentioned:
+- [[6 - Main Notes/Zettelkasten\|Zettelkasten]] 
+- confirmation bias
+
 Status: #draft 
 
-Tags: 
+Tags: [[3 - Tags/notetaking\|notetaking]] 
