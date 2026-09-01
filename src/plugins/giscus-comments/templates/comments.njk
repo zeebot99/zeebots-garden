@@ -1,0 +1,22 @@
+{#- Per-note opt-out: "comments: false" in frontmatter (noteProps on published notes) -#}
+{%- set gpCommentsOff = (noteProps and noteProps.comments === false) or comments === false -%}
+{%- if pluginSettings.repo and pluginSettings.repoId and pluginSettings.showByDefault and not gpCommentsOff -%}
+<div class="giscus-comments">
+  <script src="https://giscus.app/client.js"
+    data-repo="{{ pluginSettings.repo }}"
+    data-repo-id="{{ pluginSettings.repoId }}"
+    data-category="{{ pluginSettings.category }}"
+    data-category-id="{{ pluginSettings.categoryId }}"
+    data-mapping="pathname"
+    data-strict="0"
+    data-reactions-enabled="1"
+    data-emit-metadata="0"
+    data-input-position="bottom"
+    data-theme="{{ pluginSettings.theme }}"
+    data-lang="{{ meta.mainLanguage }}"
+    data-loading="lazy"
+    crossorigin="anonymous"
+    async>
+  </script>
+</div>
+{%- endif -%}

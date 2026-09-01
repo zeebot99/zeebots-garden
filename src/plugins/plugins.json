@@ -97,6 +97,18 @@
     },
     "dg-filetree": {
       "enabled": true
+    },
+    "giscus-comments": {
+      "repo": "oleeskild/garden-plugin-giscus-comments",
+      "installedVersion": "1.0.0",
+      "installedRef": "v1.0.0",
+      "installedAt": "2026-09-01T19:36:11.870Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/giscus-comments/README.md",
+        "src/plugins/giscus-comments/garden-plugin.json",
+        "src/plugins/giscus-comments/templates/comments.njk"
+      ]
     }
   }
 }

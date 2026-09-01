@@ -1,0 +1,63 @@
+{
+  "id": "giscus-comments",
+  "name": "Giscus Comments",
+  "version": "1.0.0",
+  "description": "GitHub-Discussions-backed comments under every note, powered by giscus.app.",
+  "author": "Ole Eskild Steensen",
+  "slots": {
+    "notes.afterContent": "templates/comments.njk"
+  },
+  "settings": [
+    {
+      "key": "repo",
+      "name": "Repository",
+      "description": "The public GitHub repo with Discussions enabled, as owner/name. Set it up at giscus.app.",
+      "type": "text",
+      "default": "",
+      "env": "GISCUS_REPO"
+    },
+    {
+      "key": "repoId",
+      "name": "Repository ID",
+      "description": "From giscus.app.",
+      "type": "text",
+      "default": "",
+      "env": "GISCUS_REPO_ID"
+    },
+    {
+      "key": "category",
+      "name": "Discussion category",
+      "type": "text",
+      "default": "Announcements"
+    },
+    {
+      "key": "categoryId",
+      "name": "Category ID",
+      "description": "From giscus.app.",
+      "type": "text",
+      "default": "",
+      "env": "GISCUS_CATEGORY_ID"
+    },
+    {
+      "key": "theme",
+      "name": "Theme",
+      "type": "select",
+      "default": "preferred_color_scheme",
+      "options": [
+        "preferred_color_scheme",
+        "light",
+        "dark",
+        "transparent_dark",
+        "noborder_light",
+        "noborder_dark"
+      ]
+    },
+    {
+      "key": "showByDefault",
+      "name": "Show on all notes",
+      "description": "Turn off a single note with comments: false in its frontmatter.",
+      "type": "boolean",
+      "default": true
+    }
+  ]
+}
