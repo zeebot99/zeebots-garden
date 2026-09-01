@@ -14,20 +14,6 @@
         "src/plugins/copy-code-button/templates/copy.njk"
       ]
     },
-    "garden-stats": {
-      "repo": "oleeskild/garden-plugin-garden-stats",
-      "installedVersion": "1.0.0",
-      "installedRef": "v1.0.0",
-      "installedAt": "2026-09-01T18:46:51.313Z",
-      "enabled": true,
-      "files": [
-        "src/plugins/garden-stats/README.md",
-        "src/plugins/garden-stats/garden-plugin.json",
-        "src/plugins/garden-stats/index.js",
-        "src/plugins/garden-stats/styles/stats.scss",
-        "src/plugins/garden-stats/templates/stats.njk"
-      ]
-    },
     "recently-tended": {
       "repo": "oleeskild/garden-plugin-recently-tended",
       "installedVersion": "1.0.0",
