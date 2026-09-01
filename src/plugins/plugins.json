@@ -95,19 +95,6 @@
         "src/plugins/image-lightbox/templates/lightbox.njk"
       ]
     },
-    "moc-nav": {
-      "repo": "oleeskild/garden-plugin-moc-nav",
-      "installedVersion": "1.0.1",
-      "installedRef": "v1.0.1",
-      "installedAt": "2026-09-01T19:33:15.992Z",
-      "enabled": true,
-      "files": [
-        "src/plugins/moc-nav/README.md",
-        "src/plugins/moc-nav/garden-plugin.json",
-        "src/plugins/moc-nav/styles/moc-nav.scss",
-        "src/plugins/moc-nav/templates/moc-nav.njk"
-      ]
-    },
     "dg-filetree": {
       "enabled": true
     }
