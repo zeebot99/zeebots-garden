@@ -1,0 +1,61 @@
+<div class="gp-lightbox" id="gp-lightbox" role="dialog" aria-modal="true" aria-label="Image viewer">
+  <img alt="" hidden>
+</div>
+<script>
+  (function () {
+    var overlay = document.getElementById("gp-lightbox");
+    var overlayImg = overlay.querySelector("img");
+
+    function closeLightbox() {
+      overlay.classList.remove("is-open");
+      overlayImg.src = "";
+      overlayImg.hidden = true;
+      var svg = overlay.querySelector("svg");
+      if (svg) svg.remove();
+    }
+
+    function openImage(img) {
+      // Prefer the full-resolution original over responsive renditions
+      var picture = img.closest("picture");
+      overlayImg.src = picture ? img.getAttribute("src") : img.currentSrc || img.src;
+      overlayImg.alt = img.alt || "";
+      overlayImg.hidden = false;
+    }
+
+    function openSvg(svg) {
+      var clone = svg.cloneNode(true);
+      if (!clone.getAttribute("viewBox")) {
+        var rect = svg.getBoundingClientRect();
+        if (!rect.width || !rect.height) return;
+        clone.setAttribute("viewBox", "0 0 " + rect.width + " " + rect.height);
+      }
+      clone.removeAttribute("width");
+      clone.removeAttribute("height");
+      clone.removeAttribute("style");
+      overlay.appendChild(clone);
+    }
+
+    document.addEventListener("click", function (e) {
+      if (overlay.classList.contains("is-open")) {
+        closeLightbox();
+        return;
+      }
+
+      var target = e.target.closest(".content img, .content svg");
+      if (!target || target.closest("a") || target.closest("button")) return;
+      // Small UI glyphs (collapse chevrons, callout icons) are not content
+      if (target.matches("svg") && (target.classList.contains("svg-icon") || target.closest(".callout-title"))) return;
+
+      if (target.matches("svg")) {
+        openSvg(target);
+      } else {
+        openImage(target);
+      }
+      overlay.classList.add("is-open");
+    });
+
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape") closeLightbox();
+    });
+  })();
+</script>

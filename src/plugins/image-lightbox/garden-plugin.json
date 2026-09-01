@@ -1,0 +1,11 @@
+{
+  "id": "image-lightbox",
+  "name": "Image Lightbox",
+  "version": "1.1.0",
+  "description": "Click any image or SVG diagram in a note to view it full size in an overlay.",
+  "author": "Ole Eskild Steensen",
+  "slots": {
+    "common.footer": "templates/lightbox.njk"
+  },
+  "styles": ["styles/lightbox.scss"]
+}
