@@ -41,6 +41,20 @@
         "src/plugins/recently-tended/styles/list.scss",
         "src/plugins/recently-tended/templates/list.njk"
       ]
+    },
+    "note-age-banner": {
+      "repo": "oleeskild/garden-plugin-note-age-banner",
+      "installedVersion": "1.0.0",
+      "installedRef": "v1.0.0",
+      "installedAt": "2026-09-01T18:45:40.483Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/note-age-banner/README.md",
+        "src/plugins/note-age-banner/garden-plugin.json",
+        "src/plugins/note-age-banner/index.js",
+        "src/plugins/note-age-banner/styles/banner.scss",
+        "src/plugins/note-age-banner/templates/banner.njk"
+      ]
     }
   }
 }

@@ -1,0 +1,10 @@
+{%- set gpNoteDate = updated or created -%}
+{%- if gpNoteDate -%}
+  {%- set gpAgeDays = gpNoteDate | gpDaysSince -%}
+  {%- if gpAgeDays > pluginSettings.maxAgeDays -%}
+<div class="gp-note-age-banner">
+  <i data-lucide="clock"></i>
+  <span>{{ pluginSettings.message }} <span class="gp-note-age">(last tended {{ (gpAgeDays / 365) | round(1) }} years ago)</span></span>
+</div>
+  {%- endif -%}
+{%- endif -%}

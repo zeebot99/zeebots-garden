@@ -1,0 +1,27 @@
+{
+  "id": "note-age-banner",
+  "name": "Note Age Banner",
+  "version": "1.0.0",
+  "description": "Warns readers when a note hasn't been tended for a while.",
+  "author": "Ole Eskild Steensen",
+  "hooks": "index.js",
+  "slots": {
+    "notes.beforeContent": "templates/banner.njk"
+  },
+  "styles": ["styles/banner.scss"],
+  "settings": [
+    {
+      "key": "maxAgeDays",
+      "name": "Age threshold (days)",
+      "description": "Show the banner on notes not updated for this many days.",
+      "type": "number",
+      "default": 365
+    },
+    {
+      "key": "message",
+      "name": "Banner message",
+      "type": "text",
+      "default": "This note hasn't been tended for a while — it may be outdated."
+    }
+  ]
+}
