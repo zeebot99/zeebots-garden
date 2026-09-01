@@ -80,7 +80,12 @@
         "src/plugins/webmentions/index.js",
         "src/plugins/webmentions/styles/mentions.scss",
         "src/plugins/webmentions/templates/mentions.njk"
-      ]
+      ],
+      "settings": {
+        "domain": "garden.zeebots.space",
+        "token": "ouyq2vHQsDMaakHoWOZ01g",
+        "heading": "Mentions from around the web"
+      }
     },
     "image-lightbox": {
       "repo": "oleeskild/garden-plugin-image-lightbox",
