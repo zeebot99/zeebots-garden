@@ -1,0 +1,36 @@
+{
+  "id": "webmentions",
+  "name": "Webmentions",
+  "version": "1.0.0",
+  "description": "Shows likes, reposts, and replies from around the web under your notes, via webmention.io.",
+  "author": "Ole Eskild Steensen",
+  "hooks": "index.js",
+  "slots": {
+    "notes.afterContent": "templates/mentions.njk"
+  },
+  "styles": ["styles/mentions.scss"],
+  "settings": [
+    {
+      "key": "domain",
+      "name": "Domain",
+      "description": "Your garden's domain as registered with webmention.io, e.g. garden.example.com.",
+      "type": "text",
+      "default": "",
+      "env": "WEBMENTION_IO_DOMAIN"
+    },
+    {
+      "key": "token",
+      "name": "API token",
+      "description": "Your webmention.io API token (read-only; found on your webmention.io dashboard).",
+      "type": "text",
+      "default": "",
+      "env": "WEBMENTION_IO_TOKEN"
+    },
+    {
+      "key": "heading",
+      "name": "Heading",
+      "type": "text",
+      "default": "Mentions from around the web"
+    }
+  ]
+}

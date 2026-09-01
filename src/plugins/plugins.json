@@ -81,6 +81,20 @@
         "src/plugins/random-note-button/garden-plugin.json",
         "src/plugins/random-note-button/templates/button.njk"
       ]
+    },
+    "webmentions": {
+      "repo": "oleeskild/garden-plugin-webmentions",
+      "installedVersion": "1.0.0",
+      "installedRef": "v1.0.0",
+      "installedAt": "2026-09-01T18:47:34.113Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/webmentions/README.md",
+        "src/plugins/webmentions/garden-plugin.json",
+        "src/plugins/webmentions/index.js",
+        "src/plugins/webmentions/styles/mentions.scss",
+        "src/plugins/webmentions/templates/mentions.njk"
+      ]
     }
   }
 }

@@ -1,0 +1,31 @@
+{%- set gpMentions = gpWebmentions | gpMentionsFor(page.url) -%}
+{%- if gpMentions.likes.length > 0 or gpMentions.reposts.length > 0 or gpMentions.replies.length > 0 -%}
+<section class="gp-webmentions">
+  <div class="gp-wm-heading">{{ pluginSettings.heading }}</div>
+
+  {%- if gpMentions.likes.length > 0 or gpMentions.reposts.length > 0 -%}
+  <div class="gp-wm-counts">
+    {%- if gpMentions.likes.length > 0 -%}
+    <span>❤️ {{ gpMentions.likes.length }}</span>
+    {%- endif -%}
+    {%- if gpMentions.reposts.length > 0 -%}
+    <span>🔁 {{ gpMentions.reposts.length }}</span>
+    {%- endif -%}
+  </div>
+  {%- endif -%}
+
+  {%- for reply in gpMentions.replies -%}
+  <div class="gp-wm-reply">
+    {%- if reply.author.photo -%}
+    <img class="gp-wm-avatar" src="{{ reply.author.photo }}" alt="" loading="lazy">
+    {%- endif -%}
+    <div class="gp-wm-body">
+      <a class="gp-wm-author" href="{{ reply.url }}" rel="nofollow noopener">{{ reply.author.name or "Someone" }}</a>
+      {%- if reply.content.text -%}
+      <span class="gp-wm-text">{{ reply.content.text | truncate(280) }}</span>
+      {%- endif -%}
+    </div>
+  </div>
+  {%- endfor -%}
+</section>
+{%- endif -%}
