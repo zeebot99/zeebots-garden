@@ -6,24 +6,8 @@ up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]
 
 ---
 # Notes updated today 📝
-| File                                                                                                                                             | Updated      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
-| [[Resources\|Resources]]                                                                                                                      | Sep 01, 2026 |
-| [[Changelog\|Changelog]]                                                                                                                      | Sep 01, 2026 |
-| [[2 - Source Material/Books/How to Take Smart Notes by Sönke Ahrens\|How to Take Smart Notes by Sönke Ahrens]]                                | Sep 01, 2026 |
-| [[2 - Source Material/Books/A System For Writing by Bob Doto\|A System For Writing by Bob Doto]]                                              | Sep 01, 2026 |
-| [[6 - Main Notes/Zeigarnik effect\|Zeigarnik effect]]                                                                                         | Sep 01, 2026 |
-| [[6 - Main Notes/second brain\|second brain]]                                                                                                 | Sep 01, 2026 |
-| [[4 - Indexes/Notetaking MOC\|Notetaking MOC]]                                                                                                | Sep 01, 2026 |
-| [[6 - Main Notes/Your notes are where you think, not something to think about\|Your notes are where you think, not something to think about]] | Sep 01, 2026 |
-| [[6 - Main Notes/Writing clarifies your thinking\|Writing clarifies your thinking]]                                                           | Sep 01, 2026 |
-| [[6 - Main Notes/Names have power\|Names have power]]                                                                                         | Sep 01, 2026 |
-| [[6 - Main Notes/Why you should organize your knowledge\|Why you should organize your knowledge]]                                             | Sep 01, 2026 |
-| [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]                                                                                  | Sep 01, 2026 |
-| [[6 - Main Notes/structure note\|structure note]]                                                                                             | Sep 01, 2026 |
-| [[6 - Main Notes/hub note\|hub note]]                                                                                                         | Sep 01, 2026 |
-| [[1 - Rough Notes/future note brain dump\|future note brain dump]]                                                                            | Sep 01, 2026 |
-| [[6 - Main Notes/Creativity ≠ novelty\|Creativity ≠ novelty]]                                                                                 | Sep 01, 2026 |
+| File | Updated |
+| ---- | ------- |
 
 { .block-language-dataview}
 

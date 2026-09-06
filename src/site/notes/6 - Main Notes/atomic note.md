@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/atomic-note/","noteIcon":"","created":"2026-01-09T20:26:19.683-08:00","updated":"2026-08-28T21:17:58.252-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/6-main-notes/atomic-note/","noteIcon":"","created":"2026-01-09T20:26:19.683-08:00","updated":"2026-09-01T15:02:09.572-07:00","dg-note-properties":{}}
 ---
 
 # atomic note
@@ -17,4 +17,4 @@ Tags: [[3 - Tags/notetaking\|notetaking]]
 Status: #draft 
 
 ## Source Material
-not sure, i'll update when i find it
+[[2 - Source Material/Books/How to Take Smart Notes by Sönke Ahrens\|How to Take Smart Notes by Sönke Ahrens]] 
