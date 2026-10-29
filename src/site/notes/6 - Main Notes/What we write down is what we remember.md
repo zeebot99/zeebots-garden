@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/what-we-write-down-is-what-we-remember/","noteIcon":"","created":"2026-07-29T20:20:12.558-07:00","updated":"2026-08-05T23:21:46.364-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/6-main-notes/what-we-write-down-is-what-we-remember/","noteIcon":"","created":"2026-07-29T20:20:12.558-07:00","updated":"2026-10-29T15:40:50.733-07:00","dg-note-properties":{}}
 ---
 
 # What we write down is what we remember
 
->[!quote]- full quote
+>[!quote]+ full quote
 >What we write down is what we remember. It’s like a [[3 - Tags/time\|time]] capsule in a way, a lifeline back to the best parts of ourselves. A little popcorn trail of words we can follow so that we never lose sight of the path we’re on.
 
 ---
