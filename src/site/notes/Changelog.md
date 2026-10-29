@@ -6,14 +6,19 @@ up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]
 
 ---
 # Notes updated today 📝
-| File                                                                        | Updated      |
-| --------------------------------------------------------------------------- | ------------ |
-| [[1 - Rough Notes/future note brain dump\|future note brain dump]]       | Oct 29, 2026 |
-| [[Changelog\|Changelog]]                                                 | Oct 29, 2026 |
-| [[4 - Indexes/Sitemap\|Sitemap]]                                         | Oct 29, 2026 |
-| [[4 - Indexes/4.1 - Paths/How to make a website\|How to make a website]] | Oct 29, 2026 |
-| [[Resources\|Resources]]                                                 | Oct 29, 2026 |
-| [[1 - Rough Notes/writing ideas\|writing ideas]]                         | Oct 29, 2026 |
+| File                                                                                                                                     | Updated      |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [[6 - Main Notes/task management\|task management]]                                                                                   | Oct 29, 2026 |
+| [[6 - Main Notes/Zeigarnik effect\|Zeigarnik effect]]                                                                                 | Oct 29, 2026 |
+| [[6 - Main Notes/doing your own curation can help with discovery\|doing your own curation can help with discovery]]                   | Oct 29, 2026 |
+| [[6 - Main Notes/The structure of a traditional blog is not user-friendly\|The structure of a traditional blog is not user-friendly]] | Oct 29, 2026 |
+| [[6 - Main Notes/Creativity ≠ novelty\|Creativity ≠ novelty]]                                                                         | Oct 29, 2026 |
+| [[1 - Rough Notes/future note brain dump\|future note brain dump]]                                                                    | Oct 29, 2026 |
+| [[Changelog\|Changelog]]                                                                                                              | Oct 29, 2026 |
+| [[4 - Indexes/Sitemap\|Sitemap]]                                                                                                      | Oct 29, 2026 |
+| [[4 - Indexes/4.1 - Paths/How to make a website\|How to make a website]]                                                              | Oct 29, 2026 |
+| [[Resources\|Resources]]                                                                                                              | Oct 29, 2026 |
+| [[1 - Rough Notes/writing ideas\|writing ideas]]                                                                                      | Oct 29, 2026 |
 
 { .block-language-dataview}
 

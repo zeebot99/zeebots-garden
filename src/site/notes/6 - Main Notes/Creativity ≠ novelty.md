@@ -1,13 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/creativity-novelty/","noteIcon":"","created":"2026-07-29T18:31:34.395-07:00","updated":"2026-09-01T12:26:07.443-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/6-main-notes/creativity-novelty/","noteIcon":"","created":"2026-07-29T18:31:34.395-07:00","updated":"2026-10-29T15:18:07.453-07:00","dg-note-properties":{}}
 ---
 
 # Creativity ≠ novelty
-[[6 - Main Notes/Creativity is just making something new\|Creativity is just making something new]]. An analogy: I don't eat my partner's pork chops because I've never head pork chops before. I eat them because *he* made them.
+[[6 - Main Notes/Creativity is just making something new\|Creativity is just making something new]].
+
+An analogy: I don't eat my partner's pork chops because I've never head pork chops before. I eat them because *he* made them.
 
 There's (probably) hundreds of thousands of songs about love, for example, but any new song is a net good.[^1]
 
-We need your art! It's been done before is not a good excuse to not share.
+We need your art! "It's been done before" is not a good excuse to not share. This mentality is perfectionism in disguise. The only way to break through it is to decide to be bad.
 
 ---
 # References
