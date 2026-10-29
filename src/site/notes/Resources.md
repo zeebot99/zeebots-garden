@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resources/","noteIcon":"","created":"2026-01-06T22:07:39.441-08:00","updated":"2026-09-01T14:52:59.309-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/resources/","noteIcon":"","created":"2026-01-06T22:07:39.441-08:00","updated":"2026-10-29T14:53:46.520-07:00","dg-note-properties":{}}
 ---
 
 up: [[4 - Indexes/Sitemap\|Sitemap]] 
@@ -49,6 +49,8 @@ my tag: [[3 - Tags/digital gardening\|digital gardening]]
 - https://starrs.neocities.org/tinyspace/ -- probably the nicest-looking neocities site i've seen tbh
 - https://ky.fyi/ -- piano keyboard on the homepage and some good blog posts
 - https://lynnandtonic.com/ -- look at this beautiful design. and the posts are great too!
+## garden hall of fame
+- 
 
 ---
 

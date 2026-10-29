@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/changelog/","noteIcon":"","created":"2026-08-28T22:12:25.629-07:00","updated":"2026-09-01T14:36:03.096-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/changelog/","noteIcon":"","created":"2026-08-28T22:12:25.629-07:00","updated":"2026-10-29T14:56:35.386-07:00","dg-note-properties":{}}
 ---
 
 up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]] 
@@ -8,23 +8,27 @@ up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]
 # Notes updated today 📝
 | File                                                                  | Updated      |
 | --------------------------------------------------------------------- | ------------ |
-| [[1 - Rough Notes/future note brain dump\|future note brain dump]] | Oct 29, 2026 |
 | [[1 - Rough Notes/writing ideas\|writing ideas]]                   | Oct 29, 2026 |
+| [[Changelog\|Changelog]]                                           | Oct 29, 2026 |
+| [[Resources\|Resources]]                                           | Oct 29, 2026 |
+| [[1 - Rough Notes/future note brain dump\|future note brain dump]] | Oct 29, 2026 |
 
 { .block-language-dataview}
 
 ---
 # Changelog 🪵
 ## 2026 
-### September
-#### 1st (tues)
+### October
+#### 29th (thurs)
+- 
+### September 1st (tues)
 - Added [[2 - Source Material/Books/How to Take Smart Notes by Sönke Ahrens\|How to Take Smart Notes by Sönke Ahrens]], [[2 - Source Material/Books/A System For Writing by Bob Doto\|A System For Writing by Bob Doto]], [[6 - Main Notes/Writing clarifies your thinking\|Writing clarifies your thinking]], and [[6 - Main Notes/Names have power\|Names have power]] from No Boilerplate's StudentVault in Patreon
 - Added contact form and rel-me links to Welcome to my mind garden🪴
 - Site is now at the subdomain `garden.zeebots.space` 
 - Enabled IndieAuth and [webmentions](https://webmention.io)!
 - Added [[6 - Main Notes/Your notes are where you think, not something to think about\|Your notes are where you think, not something to think about]], [[6 - Main Notes/Zeigarnik effect\|Zeigarnik effect]] and [[6 - Main Notes/Zeigarnik effect\|Zeigarnik effect]] stub
 ### August 
-#### 29 (sat)
+#### 29th (sat)
 - Sorted this changelog by years and month headings instead of just dates
 	- I plan to have this site for a long time. I made this change now to help me in the future and add a table of contents!
 - Changed "Home MOC" to Sitemap 
@@ -32,7 +36,7 @@ up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]
 - Added Fiction source note template
 - Added statuses to all Source Material
 - Added Paths!
-#### 28 (fri)
+#### 28th (fri)
 - Added this changelog!
 - Fixed the dead link to atomic note in Zettelkasten
 - Linked pagination to blog terms + library science. Yeah, I was shocked too.
