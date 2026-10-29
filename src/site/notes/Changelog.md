@@ -1,17 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/changelog/","noteIcon":"","created":"2026-08-28T22:12:25.629-07:00","updated":"2026-10-29T15:05:32.752-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/changelog/","noteIcon":"","created":"2026-08-28T22:12:25.629-07:00","updated":"2026-10-29T15:13:54.578-07:00","dg-note-properties":{}}
 ---
 
 up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]] 
 
 ---
 # Notes updated today 📝
-| File                                                                  | Updated      |
-| --------------------------------------------------------------------- | ------------ |
-| [[Changelog\|Changelog]]                                           | Oct 29, 2026 |
-| [[Resources\|Resources]]                                           | Oct 29, 2026 |
-| [[1 - Rough Notes/writing ideas\|writing ideas]]                   | Oct 29, 2026 |
-| [[1 - Rough Notes/future note brain dump\|future note brain dump]] | Oct 29, 2026 |
+| File                                                                        | Updated      |
+| --------------------------------------------------------------------------- | ------------ |
+| [[1 - Rough Notes/future note brain dump\|future note brain dump]]       | Oct 29, 2026 |
+| [[Changelog\|Changelog]]                                                 | Oct 29, 2026 |
+| [[4 - Indexes/Sitemap\|Sitemap]]                                         | Oct 29, 2026 |
+| [[4 - Indexes/4.1 - Paths/How to make a website\|How to make a website]] | Oct 29, 2026 |
+| [[Resources\|Resources]]                                                 | Oct 29, 2026 |
+| [[1 - Rough Notes/writing ideas\|writing ideas]]                         | Oct 29, 2026 |
 
 { .block-language-dataview}
 
@@ -22,6 +24,7 @@ up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]
 #### 29th (thurs)
 - Deleted some writing ideas and future notes from their respective pages
 - Added to the [[Resources\|resources]] 
+- Deleted the Cybersecurity MOC, I wasn't using it
 ### September 1st (tues)
 - Added [[2 - Source Material/Books/How to Take Smart Notes by Sönke Ahrens\|How to Take Smart Notes by Sönke Ahrens]], [[2 - Source Material/Books/A System For Writing by Bob Doto\|A System For Writing by Bob Doto]], [[6 - Main Notes/Writing clarifies your thinking\|Writing clarifies your thinking]], and [[6 - Main Notes/Names have power\|Names have power]] from No Boilerplate's StudentVault in Patreon
 - Added contact form and rel-me links to Welcome to my mind garden🪴
@@ -32,7 +35,7 @@ up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]
 #### 29th (sat)
 - Sorted this changelog by years and month headings instead of just dates
 	- I plan to have this site for a long time. I made this change now to help me in the future and add a table of contents!
-- Changed "Home MOC" to Sitemap 
+- Changed "Home MOC" to [[4 - Indexes/Sitemap\|Sitemap]]  
 	- I didn't like that it was called "Home MOC." In my head that contradicted my [[Welcome to my mind garden🪴\|actual homepage]].
 - Added Fiction source note template
 - Added statuses to all Source Material

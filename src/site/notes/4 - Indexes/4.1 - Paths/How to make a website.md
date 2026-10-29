@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-indexes/4-1-paths/how-to-make-a-website/","noteIcon":"","created":"2026-08-29T11:31:36.812-07:00","updated":"2026-08-29T17:15:45.808-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/4-indexes/4-1-paths/how-to-make-a-website/","noteIcon":"","created":"2026-08-29T11:31:36.812-07:00","updated":"2026-10-29T15:07:48.369-07:00","dg-note-properties":{}}
 ---
 
 # 🎯 Choose your goal
@@ -78,4 +78,4 @@ Sources:
 - [Blogger's toolbox -- Robert Birming](https://robertbirming.com/bloggers-toolbox/) 
 - Inspired by https://manuelmoreale.com/blog-platforms 
 
-Tags: 
+Tags: [[3 - Tags/website development\|website development]] 

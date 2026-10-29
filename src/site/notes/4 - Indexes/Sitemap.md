@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-indexes/sitemap/","noteIcon":"","created":"2026-06-08T20:28:37.065-07:00","updated":"2026-08-29T14:51:43.254-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/4-indexes/sitemap/","noteIcon":"","created":"2026-06-08T20:28:37.065-07:00","updated":"2026-10-29T15:12:49.519-07:00","dg-note-properties":{}}
 ---
 
 up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]] 
@@ -18,7 +18,6 @@ up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]
 # Indexes / MOCs
 >[!question]- what is an [[6 - Main Notes/MoC\|MoC]]? 
 
-[[4 - Indexes/Cybersecurity MOC\|Cybersecurity MOC]] 
 [[4 - Indexes/Notetaking MOC\|Notetaking MOC]] 
 
 ## Tag pages
