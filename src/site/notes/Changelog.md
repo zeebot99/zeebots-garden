@@ -6,9 +6,10 @@ up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]
 
 ---
 # Notes updated today 📝
-| File                                                | Updated      |
-| --------------------------------------------------- | ------------ |
-| [[1 - Rough Notes/writing ideas\|writing ideas]] | Oct 29, 2026 |
+| File                                                                  | Updated      |
+| --------------------------------------------------------------------- | ------------ |
+| [[1 - Rough Notes/future note brain dump\|future note brain dump]] | Oct 29, 2026 |
+| [[1 - Rough Notes/writing ideas\|writing ideas]]                   | Oct 29, 2026 |
 
 { .block-language-dataview}
 
