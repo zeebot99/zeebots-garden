@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/changelog/","noteIcon":"","created":"2026-08-28T22:12:25.629-07:00","updated":"2026-10-29T14:56:35.386-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/changelog/","noteIcon":"","created":"2026-08-28T22:12:25.629-07:00","updated":"2026-10-29T15:05:32.752-07:00","dg-note-properties":{}}
 ---
 
 up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]] 
@@ -8,9 +8,9 @@ up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]
 # Notes updated today 📝
 | File                                                                  | Updated      |
 | --------------------------------------------------------------------- | ------------ |
-| [[1 - Rough Notes/writing ideas\|writing ideas]]                   | Oct 29, 2026 |
 | [[Changelog\|Changelog]]                                           | Oct 29, 2026 |
 | [[Resources\|Resources]]                                           | Oct 29, 2026 |
+| [[1 - Rough Notes/writing ideas\|writing ideas]]                   | Oct 29, 2026 |
 | [[1 - Rough Notes/future note brain dump\|future note brain dump]] | Oct 29, 2026 |
 
 { .block-language-dataview}
@@ -20,7 +20,8 @@ up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]
 ## 2026 
 ### October
 #### 29th (thurs)
-- 
+- Deleted some writing ideas and future notes from their respective pages
+- Added to the [[Resources\|resources]] 
 ### September 1st (tues)
 - Added [[2 - Source Material/Books/How to Take Smart Notes by Sönke Ahrens\|How to Take Smart Notes by Sönke Ahrens]], [[2 - Source Material/Books/A System For Writing by Bob Doto\|A System For Writing by Bob Doto]], [[6 - Main Notes/Writing clarifies your thinking\|Writing clarifies your thinking]], and [[6 - Main Notes/Names have power\|Names have power]] from No Boilerplate's StudentVault in Patreon
 - Added contact form and rel-me links to Welcome to my mind garden🪴

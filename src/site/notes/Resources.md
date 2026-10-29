@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resources/","noteIcon":"","created":"2026-01-06T22:07:39.441-08:00","updated":"2026-10-29T14:53:46.520-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/resources/","noteIcon":"","created":"2026-01-06T22:07:39.441-08:00","updated":"2026-10-29T15:05:23.760-07:00","dg-note-properties":{}}
 ---
 
 up: [[4 - Indexes/Sitemap\|Sitemap]] 
@@ -49,13 +49,14 @@ my tag: [[3 - Tags/digital gardening\|digital gardening]]
 - https://starrs.neocities.org/tinyspace/ -- probably the nicest-looking neocities site i've seen tbh
 - https://ky.fyi/ -- piano keyboard on the homepage and some good blog posts
 - https://lynnandtonic.com/ -- look at this beautiful design. and the posts are great too!
-## garden hall of fame
-- 
+## how to make one
+- [32bit Cafe's Resources List for the Personal Web](https://discourse.32bit.cafe/t/resources-list-for-the-personal-web/49) 
+- [Blogger's toolbox -- Robert Birming](https://robertbirming.com/bloggers-toolbox/) 
 
 ---
 
 # wellness
-- [finch](https://finchcare.com/): a virtual pet you grow by doing things (not an affiliate link! i have a full-time job and i do this for fun!)
+- [finch](https://finchcare.com/): a virtual pet you grow by doing things (not an affiliate link! i do this for fun!)
 - [what to do if you missed your birth control pill](https://tools.plannedparenthood.org/missed_pill/missed_pill) (i miss it all the time)
 - [euki](https://eukiapp.org/): privacy-respecting period tracking app. no account required!
 
