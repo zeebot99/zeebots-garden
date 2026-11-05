@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/changelog/","noteIcon":"","created":"2026-08-28T22:12:25.629-07:00","updated":"2026-11-04T18:31:38.164-08:00","ctime":"2026-08-28T22:12:25.629-07:00","mtime":"2026-11-04T18:31:38.164-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/changelog/","noteIcon":"","created":"2026-08-28T22:12:25.629-07:00","updated":"2026-11-04T20:48:35.633-08:00","ctime":"2026-08-28T22:12:25.629-07:00","mtime":"2026-11-04T20:48:35.633-08:00","dg-note-properties":{}}
 ---
 
 up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]] 
@@ -40,6 +40,7 @@ views:
 ### November
 #### 4th (wed)
 - Updated this log to use an inline base instead of Dataview. This was the only place I used that plugin, so I deleted it from the vault as well. You'll be fondly missed, DV ❤️
+- Added a list of [[1 - Rough Notes/What I don't know\|things I don't know]] 
 ### October 29th (thurs)
 - Deleted some writing ideas and future notes from their respective pages
 - Added to the [[Resources\|resources]] 

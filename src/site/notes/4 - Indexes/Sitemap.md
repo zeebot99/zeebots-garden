@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-indexes/sitemap/","noteIcon":"","created":"2026-06-08T20:28:37.065-07:00","updated":"2026-11-04T18:32:23.565-08:00","ctime":"2026-06-08T20:28:37.065-07:00","mtime":"2026-11-04T18:32:23.565-08:00","dg-note-properties":{"aliases":["What I know","Concept Map"]}}
+{"dg-publish":true,"permalink":"/4-indexes/sitemap/","noteIcon":"","created":"2026-06-08T20:28:37.065-07:00","updated":"2026-11-04T20:47:35.347-08:00","ctime":"2026-06-08T20:28:37.065-07:00","mtime":"2026-11-04T20:47:35.347-08:00","dg-note-properties":{"aliases":["What I know","Concept Map"]}}
 ---
 
 up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]] 
@@ -19,6 +19,7 @@ up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]
 >[!question]- what is an [[6 - Main Notes/MoC\|MoC]]? 
 
 [[4 - Indexes/Notetaking MOC\|Notetaking MOC]] 
+[[1 - Rough Notes/What I don't know\|What I don't know]] 
 
 ## Tag pages
 in creation order
