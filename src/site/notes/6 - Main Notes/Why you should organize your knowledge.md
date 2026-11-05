@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/why-you-should-organize-your-knowledge/","noteIcon":"","created":"2026-01-09T20:32:44.771-08:00","updated":"2026-09-01T13:16:47.330-07:00","dg-note-properties":{"aliases":["knowledge organization benefits"]}}
+{"dg-publish":true,"permalink":"/6-main-notes/why-you-should-organize-your-knowledge/","noteIcon":"","created":"2026-01-09T20:32:44.771-08:00","updated":"2026-09-01T13:16:47.330-07:00","ctime":"2026-01-09T20:32:44.771-08:00","mtime":"2026-09-01T13:16:47.330-07:00","dg-note-properties":{"aliases":["knowledge organization benefits"]}}
 ---
 
 # Why organize your knowledge?

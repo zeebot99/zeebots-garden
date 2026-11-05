@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-indexes/notetaking-moc/","noteIcon":"","created":"2026-01-13T20:08:37.401-08:00","updated":"2026-09-01T14:08:48.238-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/4-indexes/notetaking-moc/","noteIcon":"","created":"2026-01-13T20:08:37.401-08:00","updated":"2026-09-01T14:08:48.238-07:00","ctime":"2026-01-13T20:08:37.401-08:00","mtime":"2026-09-01T14:08:48.238-07:00","dg-note-properties":{}}
 ---
 
 up: [[4 - Indexes/Sitemap\|Sitemap]] 

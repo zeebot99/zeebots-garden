@@ -1,37 +1,46 @@
 ---
-{"dg-publish":true,"permalink":"/changelog/","noteIcon":"","created":"2026-08-28T22:12:25.629-07:00","updated":"2026-10-29T15:40:32.900-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/changelog/","noteIcon":"","created":"2026-08-28T22:12:25.629-07:00","updated":"2026-11-04T18:31:38.164-08:00","ctime":"2026-08-28T22:12:25.629-07:00","mtime":"2026-11-04T18:31:38.164-08:00","dg-note-properties":{}}
 ---
 
 up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]] 
 
 ---
 # Notes updated today 📝
-| File                                                                                                                                             | Updated      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
-| [[6 - Main Notes/What we write down is what we remember\|What we write down is what we remember]]                                             | Oct 29, 2026 |
-| [[Changelog\|Changelog]]                                                                                                                      | Oct 29, 2026 |
-| [[6 - Main Notes/Names have power\|Names have power]]                                                                                         | Oct 29, 2026 |
-| [[1 - Rough Notes/future note brain dump\|future note brain dump]]                                                                            | Oct 29, 2026 |
-| [[6 - Main Notes/knowledge management\|knowledge management]]                                                                                 | Oct 29, 2026 |
-| [[6 - Main Notes/curation\|curation]]                                                                                                         | Oct 29, 2026 |
-| [[6 - Main Notes/Your notes are where you think, not something to think about\|Your notes are where you think, not something to think about]] | Oct 29, 2026 |
-| [[6 - Main Notes/task management\|task management]]                                                                                           | Oct 29, 2026 |
-| [[6 - Main Notes/Zeigarnik effect\|Zeigarnik effect]]                                                                                         | Oct 29, 2026 |
-| [[6 - Main Notes/doing your own curation can help with discovery\|doing your own curation can help with discovery]]                           | Oct 29, 2026 |
-| [[6 - Main Notes/The structure of a traditional blog is not user-friendly\|The structure of a traditional blog is not user-friendly]]         | Oct 29, 2026 |
-| [[6 - Main Notes/Creativity ≠ novelty\|Creativity ≠ novelty]]                                                                                 | Oct 29, 2026 |
-| [[4 - Indexes/Sitemap\|Sitemap]]                                                                                                              | Oct 29, 2026 |
-| [[4 - Indexes/4.1 - Paths/How to make a website\|How to make a website]]                                                                      | Oct 29, 2026 |
-| [[Resources\|Resources]]                                                                                                                      | Oct 29, 2026 |
-| [[1 - Rough Notes/writing ideas\|writing ideas]]                                                                                              | Oct 29, 2026 |
+```base
+filters:
+  and:
+    - file.mtime == "2026-11-04"
+properties:
+  file.name:
+    displayName: Name
+  file.mtime:
+    displayName: Updated
+  file.tags:
+    displayName: Tags
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.mtime
+      - file.tags
+    columnSize:
+      file.name: 249
+  - type: cards
+    name: Card view
+    order:
+      - file.name
+      - file.folder
 
-{ .block-language-dataview}
+```
 
 ---
 # Changelog 🪵
 ## 2026 
-### October
-#### 29th (thurs)
+### November
+#### 4th (wed)
+- Updated this log to use an inline base instead of Dataview. This was the only place I used that plugin, so I deleted it from the vault as well. You'll be fondly missed, DV ❤️
+### October 29th (thurs)
 - Deleted some writing ideas and future notes from their respective pages
 - Added to the [[Resources\|resources]] 
 - Deleted the Cybersecurity MOC, I wasn't using it

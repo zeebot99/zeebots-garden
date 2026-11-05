@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-rough-notes/writing-ideas/","noteIcon":"","created":"2026-01-06T22:07:39.437-08:00","updated":"2026-10-29T14:57:05.048-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/1-rough-notes/writing-ideas/","noteIcon":"","created":"2026-01-06T22:07:39.437-08:00","updated":"2026-10-29T14:57:05.048-07:00","ctime":"2026-01-06T22:07:39.437-08:00","mtime":"2026-10-29T14:57:05.048-07:00","dg-note-properties":{}}
 ---
 
 up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]] 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-source-material/books/how-to-take-smart-notes-by-soenke-ahrens/","noteIcon":"","created":"2026-09-01T10:18:06.630-07:00","updated":"2026-09-01T14:34:22.931-07:00","dg-note-properties":{"aliases":null}}
+{"dg-publish":true,"permalink":"/2-source-material/books/how-to-take-smart-notes-by-soenke-ahrens/","noteIcon":"","created":"2026-09-01T10:18:06.630-07:00","updated":"2026-09-01T14:34:22.931-07:00","ctime":"2026-09-01T10:18:06.630-07:00","mtime":"2026-09-01T14:34:22.931-07:00","dg-note-properties":{"aliases":null}}
 ---
 
 # ✍🏾 summary

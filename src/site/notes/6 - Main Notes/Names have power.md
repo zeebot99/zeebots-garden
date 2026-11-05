@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/names-have-power/","noteIcon":"","created":"2026-09-01T13:25:29.623-07:00","updated":"2026-10-29T15:39:44.776-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/6-main-notes/names-have-power/","noteIcon":"","created":"2026-09-01T13:25:29.623-07:00","updated":"2026-10-29T15:39:44.776-07:00","ctime":"2026-09-01T13:25:29.623-07:00","mtime":"2026-10-29T15:39:44.776-07:00","dg-note-properties":{}}
 ---
 
 # Names have power

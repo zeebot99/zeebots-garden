@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-source-material/videos/how-to-achieve-more-while-studying-less-obsidian-and-conceptual-notes/","noteIcon":"","created":"2026-07-29T17:33:09.993-07:00","updated":"2026-08-29T13:06:56.750-07:00","dg-note-properties":{"aliases":["How to Achieve More While Studying Less"]}}
+{"dg-publish":true,"permalink":"/2-source-material/videos/how-to-achieve-more-while-studying-less-obsidian-and-conceptual-notes/","noteIcon":"","created":"2026-07-29T17:33:09.993-07:00","updated":"2026-08-29T13:06:56.750-07:00","ctime":"2026-07-29T17:33:09.993-07:00","mtime":"2026-08-29T13:06:56.750-07:00","dg-note-properties":{"aliases":["How to Achieve More While Studying Less"]}}
 ---
 
 # ✍🏾 summary

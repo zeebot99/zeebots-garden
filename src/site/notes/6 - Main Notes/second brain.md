@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/second-brain/","noteIcon":"","created":"2026-08-29T09:55:13.233-07:00","updated":"2026-09-01T14:09:13.965-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/6-main-notes/second-brain/","noteIcon":"","created":"2026-08-29T09:55:13.233-07:00","updated":"2026-09-01T14:09:13.965-07:00","ctime":"2026-08-29T09:55:13.233-07:00","mtime":"2026-09-01T14:09:13.965-07:00","dg-note-properties":{}}
 ---
 
 # second brain

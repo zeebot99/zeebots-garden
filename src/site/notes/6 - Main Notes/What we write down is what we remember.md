@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/what-we-write-down-is-what-we-remember/","noteIcon":"","created":"2026-07-29T20:20:12.558-07:00","updated":"2026-10-29T15:40:50.733-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/6-main-notes/what-we-write-down-is-what-we-remember/","noteIcon":"","created":"2026-07-29T20:20:12.558-07:00","updated":"2026-10-29T15:40:50.733-07:00","ctime":"2026-07-29T20:20:12.558-07:00","mtime":"2026-10-29T15:40:50.733-07:00","dg-note-properties":{}}
 ---
 
 # What we write down is what we remember

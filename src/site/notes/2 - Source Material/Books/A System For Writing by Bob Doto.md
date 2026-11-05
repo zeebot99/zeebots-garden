@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-source-material/books/a-system-for-writing-by-bob-doto/","noteIcon":"","created":"2026-09-01T11:18:55.801-07:00","updated":"2026-09-01T14:33:30.927-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/2-source-material/books/a-system-for-writing-by-bob-doto/","noteIcon":"","created":"2026-09-01T11:18:55.801-07:00","updated":"2026-09-01T14:33:30.927-07:00","ctime":"2026-09-01T11:18:55.801-07:00","mtime":"2026-09-01T14:33:30.927-07:00","dg-note-properties":{}}
 ---
 
 # ✍🏾 summary

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-source-material/blog-posts/just-do-the-thing/","noteIcon":"","created":"2026-08-05T23:02:54.015-07:00","updated":"2026-08-29T13:00:11.945-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/2-source-material/blog-posts/just-do-the-thing/","noteIcon":"","created":"2026-08-05T23:02:54.015-07:00","updated":"2026-08-29T13:00:11.945-07:00","ctime":"2026-08-05T23:02:54.015-07:00","mtime":"2026-08-29T13:00:11.945-07:00","dg-note-properties":{}}
 ---
 
 # ✍🏾 summary

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/the-structure-of-a-traditional-blog-is-not-user-friendly/","noteIcon":"","created":"2026-01-06T22:07:39.568-08:00","updated":"2026-10-29T15:19:30.610-07:00","dg-note-properties":{"aliases":["user-friendly blog structure"]}}
+{"dg-publish":true,"permalink":"/6-main-notes/the-structure-of-a-traditional-blog-is-not-user-friendly/","noteIcon":"","created":"2026-01-06T22:07:39.568-08:00","updated":"2026-10-29T15:19:30.610-07:00","ctime":"2026-01-06T22:07:39.568-08:00","mtime":"2026-10-29T15:19:30.610-07:00","dg-note-properties":{"aliases":["user-friendly blog structure"]}}
 ---
 
 # The structure of a traditional blog is not user-friendly

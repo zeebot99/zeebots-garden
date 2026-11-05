@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/task-management/","noteIcon":"","created":"2026-10-29T15:30:04.783-07:00","updated":"2026-10-29T15:31:41.244-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/6-main-notes/task-management/","noteIcon":"","created":"2026-10-29T15:30:04.783-07:00","updated":"2026-10-29T15:31:41.244-07:00","ctime":"2026-10-29T15:30:04.783-07:00","mtime":"2026-10-29T15:31:41.244-07:00","dg-note-properties":{}}
 ---
 
 # task management

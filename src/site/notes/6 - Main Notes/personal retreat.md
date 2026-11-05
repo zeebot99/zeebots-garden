@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/personal-retreat/","noteIcon":"","created":"2026-09-15T05:17:31.318-07:00","updated":"2026-09-15T05:24:55.891-07:00","dg-note-properties":{"aliases":["personal retreats"]}}
+{"dg-publish":true,"permalink":"/6-main-notes/personal-retreat/","noteIcon":"","created":"2026-09-15T05:17:31.318-07:00","updated":"2026-09-15T05:24:55.891-07:00","ctime":"2026-09-15T05:17:31.318-07:00","mtime":"2026-09-15T05:24:55.891-07:00","dg-note-properties":{"aliases":["personal retreats"]}}
 ---
 
 # personal retreat

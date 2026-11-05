@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/your-notes-are-where-you-think-not-something-to-think-about/","noteIcon":"","created":"2026-09-01T13:57:01.452-07:00","updated":"2026-10-29T15:36:27.457-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/6-main-notes/your-notes-are-where-you-think-not-something-to-think-about/","noteIcon":"","created":"2026-09-01T13:57:01.452-07:00","updated":"2026-10-29T15:36:27.457-07:00","ctime":"2026-09-01T13:57:01.452-07:00","mtime":"2026-10-29T15:36:27.457-07:00","dg-note-properties":{}}
 ---
 
 # Your notes are where you think, not something to think about

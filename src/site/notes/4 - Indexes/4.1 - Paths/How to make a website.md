@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-indexes/4-1-paths/how-to-make-a-website/","noteIcon":"","created":"2026-08-29T11:31:36.812-07:00","updated":"2026-10-29T15:07:48.369-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/4-indexes/4-1-paths/how-to-make-a-website/","noteIcon":"","created":"2026-08-29T11:31:36.812-07:00","updated":"2026-10-29T15:07:48.369-07:00","ctime":"2026-08-29T11:31:36.812-07:00","mtime":"2026-10-29T15:07:48.369-07:00","dg-note-properties":{}}
 ---
 
 # 🎯 Choose your goal

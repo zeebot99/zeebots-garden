@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/structure-note/","noteIcon":"","created":"2026-09-01T12:24:13.500-07:00","updated":"2026-09-01T12:53:05.800-07:00","dg-note-properties":{"aliases":["structure notes"]}}
+{"dg-publish":true,"permalink":"/6-main-notes/structure-note/","noteIcon":"","created":"2026-09-01T12:24:13.500-07:00","updated":"2026-09-01T12:53:05.800-07:00","ctime":"2026-09-01T12:24:13.500-07:00","mtime":"2026-09-01T12:53:05.800-07:00","dg-note-properties":{"aliases":["structure notes"]}}
 ---
 
 # structure note

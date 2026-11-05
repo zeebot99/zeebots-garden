@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/hub-note/","noteIcon":"","created":"2026-09-01T12:20:05.115-07:00","updated":"2026-09-01T12:53:05.765-07:00","dg-note-properties":{"aliases":["hub notes"]}}
+{"dg-publish":true,"permalink":"/6-main-notes/hub-note/","noteIcon":"","created":"2026-09-01T12:20:05.115-07:00","updated":"2026-09-01T12:53:05.765-07:00","ctime":"2026-09-01T12:20:05.115-07:00","mtime":"2026-09-01T12:53:05.765-07:00","dg-note-properties":{"aliases":["hub notes"]}}
 ---
 
 # hub note

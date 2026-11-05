@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-templates/fiction-source-note/","noteIcon":"","created":"2026-08-29T09:38:42.324-07:00","updated":"2026-08-29T13:01:32.839-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/5-templates/fiction-source-note/","noteIcon":"","created":"2026-08-29T09:38:42.324-07:00","updated":"2026-08-29T13:01:32.839-07:00","ctime":"2026-08-29T09:38:42.324-07:00","mtime":"2026-08-29T13:01:32.839-07:00","dg-note-properties":{}}
 ---
 
 # ✍🏾 summary

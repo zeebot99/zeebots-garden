@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/zettelkasten/","noteIcon":"","created":"2026-01-06T22:07:39.580-08:00","updated":"2026-08-28T21:22:48.136-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/6-main-notes/zettelkasten/","noteIcon":"","created":"2026-01-06T22:07:39.580-08:00","updated":"2026-08-28T21:22:48.136-07:00","ctime":"2026-01-06T22:07:39.580-08:00","mtime":"2026-08-28T21:22:48.136-07:00","dg-note-properties":{}}
 ---
 
 # Zettelkasten

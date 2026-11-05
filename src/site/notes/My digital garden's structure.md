@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-digital-garden-s-structure/","noteIcon":"","created":"2026-08-29T09:09:15.186-07:00","updated":"2026-08-29T09:43:49.543-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/my-digital-garden-s-structure/","noteIcon":"","created":"2026-08-29T09:09:15.186-07:00","updated":"2026-08-29T09:43:49.543-07:00","ctime":"2026-08-29T09:09:15.186-07:00","mtime":"2026-08-29T09:43:49.543-07:00","dg-note-properties":{}}
 ---
 
 up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]]

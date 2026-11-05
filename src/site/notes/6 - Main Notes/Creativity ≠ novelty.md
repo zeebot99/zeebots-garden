@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/creativity-novelty/","noteIcon":"","created":"2026-07-29T18:31:34.395-07:00","updated":"2026-10-29T15:18:07.453-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/6-main-notes/creativity-novelty/","noteIcon":"","created":"2026-07-29T18:31:34.395-07:00","updated":"2026-10-29T15:18:07.453-07:00","ctime":"2026-07-29T18:31:34.395-07:00","mtime":"2026-10-29T15:18:07.453-07:00","dg-note-properties":{}}
 ---
 
 # Creativity ≠ novelty

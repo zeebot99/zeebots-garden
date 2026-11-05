@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resources/","noteIcon":"","created":"2026-01-06T22:07:39.441-08:00","updated":"2026-10-29T15:05:23.760-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/resources/","noteIcon":"","created":"2026-01-06T22:07:39.441-08:00","updated":"2026-10-29T15:05:23.760-07:00","ctime":"2026-01-06T22:07:39.441-08:00","mtime":"2026-10-29T15:05:23.760-07:00","dg-note-properties":{}}
 ---
 
 up: [[4 - Indexes/Sitemap\|Sitemap]] 

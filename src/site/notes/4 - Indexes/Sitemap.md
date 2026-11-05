@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-indexes/sitemap/","noteIcon":"","created":"2026-06-08T20:28:37.065-07:00","updated":"2026-10-29T15:12:49.519-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/4-indexes/sitemap/","noteIcon":"","created":"2026-06-08T20:28:37.065-07:00","updated":"2026-11-04T18:32:23.565-08:00","ctime":"2026-06-08T20:28:37.065-07:00","mtime":"2026-11-04T18:32:23.565-08:00","dg-note-properties":{"aliases":["What I know","Concept Map"]}}
 ---
 
 up: [[Welcome to my mind garden🪴\|Welcome to my mind garden🪴]] 

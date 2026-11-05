@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-source-material/articles/a-beginner-s-guide-to-the-zettelkasten-method-zenkit/","noteIcon":"","created":"2026-01-07T05:11:10.969-08:00","updated":"2026-08-29T13:07:19.894-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/2-source-material/articles/a-beginner-s-guide-to-the-zettelkasten-method-zenkit/","noteIcon":"","created":"2026-01-07T05:11:10.969-08:00","updated":"2026-08-29T13:07:19.894-07:00","ctime":"2026-01-07T05:11:10.969-08:00","mtime":"2026-08-29T13:07:19.894-07:00","dg-note-properties":{}}
 ---
 
 >[!quote]+ information overload

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/pagination/","noteIcon":"","created":"2026-01-06T22:07:39.573-08:00","updated":"2026-08-28T21:38:05.459-07:00","dg-note-properties":{"aliases":["paginated","paginate","paginates"]}}
+{"dg-publish":true,"permalink":"/6-main-notes/pagination/","noteIcon":"","created":"2026-01-06T22:07:39.573-08:00","updated":"2026-08-28T21:38:05.459-07:00","ctime":"2026-01-06T22:07:39.573-08:00","mtime":"2026-08-28T21:38:05.459-07:00","dg-note-properties":{"aliases":["paginated","paginate","paginates"]}}
 ---
 
 # pagination

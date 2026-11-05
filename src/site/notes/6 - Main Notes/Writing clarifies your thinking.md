@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/writing-clarifies-your-thinking/","noteIcon":"","created":"2026-09-01T13:10:41.729-07:00","updated":"2026-09-01T13:50:29.205-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/6-main-notes/writing-clarifies-your-thinking/","noteIcon":"","created":"2026-09-01T13:10:41.729-07:00","updated":"2026-09-01T13:50:29.205-07:00","ctime":"2026-09-01T13:10:41.729-07:00","mtime":"2026-09-01T13:50:29.205-07:00","dg-note-properties":{}}
 ---
 
 # Writing clarifies your thinking

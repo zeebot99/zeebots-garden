@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/doing-your-own-curation-can-help-with-discovery/","noteIcon":"","created":"2026-10-29T15:19:31.234-07:00","updated":"2026-10-29T15:23:45.075-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/6-main-notes/doing-your-own-curation-can-help-with-discovery/","noteIcon":"","created":"2026-10-29T15:19:31.234-07:00","updated":"2026-10-29T15:23:45.075-07:00","ctime":"2026-10-29T15:19:31.234-07:00","mtime":"2026-10-29T15:23:45.075-07:00","dg-note-properties":{}}
 ---
 
 # doing your own curation can help with discovery
